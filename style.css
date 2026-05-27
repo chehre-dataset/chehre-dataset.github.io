@@ -54,3 +54,88 @@ table {
 .label-info[href]:hover {
   background-color: #cb5920;
 }
+
+.dataset-browser {
+  margin-top: 3rem;
+}
+
+.emoji-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1.25rem 0 2rem;
+}
+
+.emoji-button {
+  border: 1px solid #ddd;
+  background: #fff;
+  border-radius: 14px;
+  padding: 0.65rem 0.85rem;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 72px;
+}
+
+.emoji-button:hover,
+.emoji-button.active {
+  border-color: #111;
+  transform: translateY(-2px);
+}
+
+.emoji-char {
+  font-size: 2rem;
+  line-height: 1;
+}
+
+.emoji-img {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  display: block;
+}
+
+.emoji-label {
+  font-size: 0.75rem;
+  margin-top: 0.25rem;
+  color: #666;
+}
+
+.sample-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 2rem;
+}
+
+.sample-card {
+  border: 1px solid #e5e5e5;
+  border-radius: 16px;
+  padding: 1rem;
+  background: #fff;
+}
+
+.sample-card video {
+  width: 100%;
+  border-radius: 12px;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.plot-img {
+  width: 100%;
+  border-radius: 12px;
+  display: block;
+  margin-bottom: 0.75rem;
+}
+
+.sample-name {
+  font-size: 0.8rem;
+  color: #555;
+  word-break: break-all;
+}
+
+.missing-plot {
+  font-size: 0.85rem;
+  color: #777;
+}
