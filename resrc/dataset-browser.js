@@ -4,8 +4,8 @@ const VIDEO_BASE = `${S3_BASE}/videos_anonymized`;
 const PLOT_BASE = `${S3_BASE}/chehre_website/plots/2111_videos`;
 const EMOJI_BASE = `${S3_BASE}/chehre_website/emojis`;
 
-const DATA_JSON = "resrc/emoji_videos_plots.json";
-const SAMPLES_TO_SHOW = 8;
+const DATA_JSON = "resrc/emoji_videos_plots_random10.json";
+const SAMPLES_TO_SHOW = 4;
 
 function buildUrl(base, filename) {
   return `${base.replace(/\/$/, "")}/${encodeURIComponent(filename)}`;
@@ -13,6 +13,10 @@ function buildUrl(base, filename) {
 
 function plotFilenameFromVideo(videoFilename) {
   return `rank_counts__${videoFilename}.png`;
+}
+
+function displayVideoName(videoFilename) {
+  return videoFilename.replace(/\.mp4$/i, "");
 }
 
 function pickRandomSamples(samples, count = SAMPLES_TO_SHOW) {
@@ -74,18 +78,18 @@ function renderSamples(group) {
 
       return `
         <article class="sample-card">
-          <video controls preload="metadata">
+          <video controls autoplay muted loop playsinline preload="metadata">
             <source src="${videoUrl}" type="video/mp4">
             Your browser does not support the video tag.
           </video>
+
+          <p class="sample-name" title="${videoFilename}">${displayVideoName(videoFilename)}</p>
 
           ${
             plotUrl
               ? `<img class="plot-img" src="${plotUrl}" alt="Rating plot for ${videoFilename}">`
               : `<p class="missing-plot">No plot available.</p>`
           }
-
-        
         </article>
       `;
     })

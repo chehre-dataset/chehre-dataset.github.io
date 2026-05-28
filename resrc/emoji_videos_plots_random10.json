@@ -1,0 +1,1786 @@
+[
+  {
+    "emoji_path": "1f601.png",
+    "emoji_code": "1f601",
+    "samples": [
+      {
+        "video": "AF_Y_006--2b6881e1-e751-4ba4-ae19-3564aff1aa8c_1f601.mp4",
+        "plot": "rank_counts__AF_Y_006--2b6881e1-e751-4ba4-ae19-3564aff1aa8c_1f601.mp4.png"
+      },
+      {
+        "video": "AF_Y_003--4535c013-280d-4d0c-814f-92b15ef94470_1f601.mp4",
+        "plot": "rank_counts__AF_Y_003--4535c013-280d-4d0c-814f-92b15ef94470_1f601.mp4.png"
+      },
+      {
+        "video": "AF_Y_005--87c3c924-1f3c-4e3a-9ba6-901fa5d5858e_1f601.mp4",
+        "plot": "rank_counts__AF_Y_005--87c3c924-1f3c-4e3a-9ba6-901fa5d5858e_1f601.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--a806638f-e6e6-4857-a9be-5973697796e7_1f601.mp4",
+        "plot": "rank_counts__LF_Y_002--a806638f-e6e6-4857-a9be-5973697796e7_1f601.mp4.png"
+      },
+      {
+        "video": "AF_Y_008--0e6bf2b5-aa85-4b53-8a74-2cec8710c864_1f601.mp4",
+        "plot": "rank_counts__AF_Y_008--0e6bf2b5-aa85-4b53-8a74-2cec8710c864_1f601.mp4.png"
+      },
+      {
+        "video": "WF_Y_004--e4b5fda6-b534-4f23-a97b-0f311250edf2_1f601.mp4",
+        "plot": "rank_counts__WF_Y_004--e4b5fda6-b534-4f23-a97b-0f311250edf2_1f601.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--c552bf0f-b467-454f-bdb7-6bb592d3d752_1f601.mp4",
+        "plot": "rank_counts__AF_Y_004--c552bf0f-b467-454f-bdb7-6bb592d3d752_1f601.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f601.mp4",
+        "plot": "rank_counts__LF_Y_001--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f601.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--accc63d1-366d-4ea0-8ce8-a207d7286b26_1f601.mp4",
+        "plot": "rank_counts__LF_Y_001--accc63d1-366d-4ea0-8ce8-a207d7286b26_1f601.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--ec8fee8a-ee4c-4a3e-b200-2e02e527f4c3_1f601.mp4",
+        "plot": "rank_counts__AF_Y_004--ec8fee8a-ee4c-4a3e-b200-2e02e527f4c3_1f601.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f603.png",
+    "emoji_code": "1f603",
+    "samples": [
+      {
+        "video": "AF_Y_006--5df97110-987f-41fe-bd5b-da874089061b_1f603.mp4",
+        "plot": "rank_counts__AF_Y_006--5df97110-987f-41fe-bd5b-da874089061b_1f603.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--d3e8649a-4bf5-41f2-b4f1-ebaf4151d15d_1f603.mp4",
+        "plot": "rank_counts__AF_Y_004--d3e8649a-4bf5-41f2-b4f1-ebaf4151d15d_1f603.mp4.png"
+      },
+      {
+        "video": "WF_Y_004--56f874d4-b928-4ec8-8c4c-ebaff2f10de7_1f603.mp4",
+        "plot": "rank_counts__WF_Y_004--56f874d4-b928-4ec8-8c4c-ebaff2f10de7_1f603.mp4.png"
+      },
+      {
+        "video": "WF_Y_005--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f603.mp4",
+        "plot": "rank_counts__WF_Y_005--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f603.mp4.png"
+      },
+      {
+        "video": "AF_Y_009--5ed5db40-feb0-4098-abdf-f9a9b4bb7b88_1f603.mp4",
+        "plot": "rank_counts__AF_Y_009--5ed5db40-feb0-4098-abdf-f9a9b4bb7b88_1f603.mp4.png"
+      },
+      {
+        "video": "AF_Y_008--2a4be810-a53e-4549-8276-d1299e449b04_1f603.mp4",
+        "plot": "rank_counts__AF_Y_008--2a4be810-a53e-4549-8276-d1299e449b04_1f603.mp4.png"
+      },
+      {
+        "video": "LM_Y_006--17daef2f-e5a9-4a9b-8f40-3cb4ab4e45e1_1f603.mp4",
+        "plot": "rank_counts__LM_Y_006--17daef2f-e5a9-4a9b-8f40-3cb4ab4e45e1_1f603.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--8701c278-fdd4-418b-9b41-12d61e02f27f_1f603.mp4",
+        "plot": "rank_counts__AF_Y_004--8701c278-fdd4-418b-9b41-12d61e02f27f_1f603.mp4.png"
+      },
+      {
+        "video": "WF_Y_004--d1c47015-bcc9-4ecc-8b10-10842c2132b3_1f603.mp4",
+        "plot": "rank_counts__WF_Y_004--d1c47015-bcc9-4ecc-8b10-10842c2132b3_1f603.mp4.png"
+      },
+      {
+        "video": "LM_Y_005--4f9eecfe-d716-46f4-b893-c2607ca1c69d_1f603.mp4",
+        "plot": "rank_counts__LM_Y_005--4f9eecfe-d716-46f4-b893-c2607ca1c69d_1f603.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f605.png",
+    "emoji_code": "1f605",
+    "samples": [
+      {
+        "video": "WF_Y_006--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f605.mp4",
+        "plot": "rank_counts__WF_Y_006--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f605.mp4.png"
+      },
+      {
+        "video": "WF_Y_005--bfcff2ec-d9aa-4932-b9f9-271a4076d808_1f605.mp4",
+        "plot": "rank_counts__WF_Y_005--bfcff2ec-d9aa-4932-b9f9-271a4076d808_1f605.mp4.png"
+      },
+      {
+        "video": "AM_Y_002--d41dc2c1-c3b0-480a-a175-2ad3cb5fc137_1f605.mp4",
+        "plot": "rank_counts__AM_Y_002--d41dc2c1-c3b0-480a-a175-2ad3cb5fc137_1f605.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--accc63d1-366d-4ea0-8ce8-a207d7286b26_1f605.mp4",
+        "plot": "rank_counts__LF_Y_002--accc63d1-366d-4ea0-8ce8-a207d7286b26_1f605.mp4.png"
+      },
+      {
+        "video": "AF_Y_009--2a4be810-a53e-4549-8276-d1299e449b04_1f605.mp4",
+        "plot": "rank_counts__AF_Y_009--2a4be810-a53e-4549-8276-d1299e449b04_1f605.mp4.png"
+      },
+ 
+      {
+        "video": "AF_Y_001--56b3148f-6774-4053-b3d5-c5587f134433_1f605.mp4",
+        "plot": "rank_counts__AF_Y_001--56b3148f-6774-4053-b3d5-c5587f134433_1f605.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f605.mp4",
+        "plot": "rank_counts__LF_Y_001--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f605.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--9c341823-510c-41c2-ba89-eacd03d285c9_1f605.mp4",
+        "plot": "rank_counts__AF_Y_004--9c341823-510c-41c2-ba89-eacd03d285c9_1f605.mp4.png"
+      },
+      {
+        "video": "AF_Y_007--2bf66241-d18f-4037-835d-d2a9d9bdab9d_1f605.mp4",
+        "plot": "rank_counts__AF_Y_007--2bf66241-d18f-4037-835d-d2a9d9bdab9d_1f605.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f607.png",
+    "emoji_code": "1f607",
+    "samples": [
+      {
+        "video": "LF_Y_002--0810b613-86fe-401a-a490-26b9e3d1fc2f_1f607.mp4",
+        "plot": "rank_counts__LF_Y_002--0810b613-86fe-401a-a490-26b9e3d1fc2f_1f607.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--3bde0305-5f4a-408c-bf09-db287f45592d_1f607.mp4",
+        "plot": "rank_counts__LF_Y_002--3bde0305-5f4a-408c-bf09-db287f45592d_1f607.mp4.png"
+      },
+      {
+        "video": "AF_Y_003--9c341823-510c-41c2-ba89-eacd03d285c9_1f607.mp4",
+        "plot": "rank_counts__AF_Y_003--9c341823-510c-41c2-ba89-eacd03d285c9_1f607.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--20ee2d9f-1dad-4fa0-b8f1-2fe7a82aa945_1f607.mp4",
+        "plot": "rank_counts__LF_Y_002--20ee2d9f-1dad-4fa0-b8f1-2fe7a82aa945_1f607.mp4.png"
+      },
+      {
+        "video": "WF_Y_006--e4b5fda6-b534-4f23-a97b-0f311250edf2_1f607.mp4",
+        "plot": "rank_counts__WF_Y_006--e4b5fda6-b534-4f23-a97b-0f311250edf2_1f607.mp4.png"
+      },
+      {
+        "video": "AM_Y_003--8681f750-12f8-4a33-aa58-3f5f82873d94_1f607.mp4",
+        "plot": "rank_counts__AM_Y_003--8681f750-12f8-4a33-aa58-3f5f82873d94_1f607.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--35aa8ca5-d587-4966-83e5-da2214f575bf_1f607.mp4",
+        "plot": "rank_counts__AF_Y_001--35aa8ca5-d587-4966-83e5-da2214f575bf_1f607.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--e0b66f73-3c0a-44b0-a462-3557d2bcf04b_1f607.mp4",
+        "plot": "rank_counts__LF_Y_001--e0b66f73-3c0a-44b0-a462-3557d2bcf04b_1f607.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--a7a9bdf4-1296-4c53-b257-b42bd10d5528_1f607.mp4",
+        "plot": "rank_counts__AF_Y_004--a7a9bdf4-1296-4c53-b257-b42bd10d5528_1f607.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--cd43ad96-8ebb-47e6-9d25-ac3e9bb20a56_1f607.mp4",
+        "plot": "rank_counts__LF_Y_002--cd43ad96-8ebb-47e6-9d25-ac3e9bb20a56_1f607.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f608.png",
+    "emoji_code": "1f608",
+    "samples": [
+      {
+        "video": "AF_Y_001--92d2d3e8-2c6f-4053-83e5-79de5f7fc6ec_1f608.mp4",
+        "plot": "rank_counts__AF_Y_001--92d2d3e8-2c6f-4053-83e5-79de5f7fc6ec_1f608.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--30408fa1-fe9b-4554-a24d-483c9958e798_1f608.mp4",
+        "plot": "rank_counts__LF_Y_002--30408fa1-fe9b-4554-a24d-483c9958e798_1f608.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--e0b66f73-3c0a-44b0-a462-3557d2bcf04b_1f608.mp4",
+        "plot": "rank_counts__LF_Y_001--e0b66f73-3c0a-44b0-a462-3557d2bcf04b_1f608.mp4.png"
+      },
+      {
+        "video": "AF_Y_006--bf60bfae-c954-4a17-b1cc-db7c0b17771d_1f608.mp4",
+        "plot": "rank_counts__AF_Y_006--bf60bfae-c954-4a17-b1cc-db7c0b17771d_1f608.mp4.png"
+      },
+      {
+        "video": "AF_Y_007--5df97110-987f-41fe-bd5b-da874089061b_1f608.mp4",
+        "plot": "rank_counts__AF_Y_007--5df97110-987f-41fe-bd5b-da874089061b_1f608.mp4.png"
+      },
+      {
+        "video": "AM_Y_001--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1f608.mp4",
+        "plot": "rank_counts__AM_Y_001--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1f608.mp4.png"
+      },
+      {
+        "video": "WF_Y_002--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f608.mp4",
+        "plot": "rank_counts__WF_Y_002--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f608.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--ec8fee8a-ee4c-4a3e-b200-2e02e527f4c3_1f608.mp4",
+        "plot": "rank_counts__AF_Y_004--ec8fee8a-ee4c-4a3e-b200-2e02e527f4c3_1f608.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--84b7c199-5a73-4887-9925-d2cae7f98a73_1f608.mp4",
+        "plot": "rank_counts__AF_Y_001--84b7c199-5a73-4887-9925-d2cae7f98a73_1f608.mp4.png"
+      },
+      {
+        "video": "AF_Y_008--8b4ce2e1-139b-48a0-8cd5-17cb106783f8_1f608.mp4",
+        "plot": "rank_counts__AF_Y_008--8b4ce2e1-139b-48a0-8cd5-17cb106783f8_1f608.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f60a.png",
+    "emoji_code": "1f60a",
+    "samples": [
+      {
+        "video": "AM_Y_004--d41dc2c1-c3b0-480a-a175-2ad3cb5fc137_1f60a.mp4",
+        "plot": "rank_counts__AM_Y_004--d41dc2c1-c3b0-480a-a175-2ad3cb5fc137_1f60a.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--30408fa1-fe9b-4554-a24d-483c9958e798_1f60a.mp4",
+        "plot": "rank_counts__LF_Y_002--30408fa1-fe9b-4554-a24d-483c9958e798_1f60a.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--8b4ce2e1-139b-48a0-8cd5-17cb106783f8_1f60a.mp4",
+        "plot": "rank_counts__AF_Y_001--8b4ce2e1-139b-48a0-8cd5-17cb106783f8_1f60a.mp4.png"
+      },
+      {
+        "video": "AF_Y_003--bf60bfae-c954-4a17-b1cc-db7c0b17771d_1f60a.mp4",
+        "plot": "rank_counts__AF_Y_003--bf60bfae-c954-4a17-b1cc-db7c0b17771d_1f60a.mp4.png"
+      },
+      {
+        "video": "AF_Y_009--35aa8ca5-d587-4966-83e5-da2214f575bf_1f60a.mp4",
+        "plot": "rank_counts__AF_Y_009--35aa8ca5-d587-4966-83e5-da2214f575bf_1f60a.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--7e07a849-a8e3-4bd3-908c-11b334cd1f33_1f60a.mp4",
+        "plot": "rank_counts__LF_Y_002--7e07a849-a8e3-4bd3-908c-11b334cd1f33_1f60a.mp4.png"
+      },
+      {
+        "video": "AF_Y_008--b92f811d-880f-4845-8b57-035df76665c0_1f60a.mp4",
+        "plot": "rank_counts__AF_Y_008--b92f811d-880f-4845-8b57-035df76665c0_1f60a.mp4.png"
+      },
+      {
+        "video": "WF_Y_002--bf33a0bc-64c2-4ebd-ae09-f1d7ee7df11b_1f60a.mp4",
+        "plot": "rank_counts__WF_Y_002--bf33a0bc-64c2-4ebd-ae09-f1d7ee7df11b_1f60a.mp4.png"
+      },
+      {
+        "video": "AM_Y_002--8681f750-12f8-4a33-aa58-3f5f82873d94_1f60a.mp4",
+        "plot": "rank_counts__AM_Y_002--8681f750-12f8-4a33-aa58-3f5f82873d94_1f60a.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f60c.png",
+    "emoji_code": "1f60c",
+    "samples": [
+      {
+        "video": "AF_Y_004--9c341823-510c-41c2-ba89-eacd03d285c9_1f60c.mp4",
+        "plot": "rank_counts__AF_Y_004--9c341823-510c-41c2-ba89-eacd03d285c9_1f60c.mp4.png"
+      },
+      {
+        "video": "AM_Y_005--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1f60c.mp4",
+        "plot": "rank_counts__AM_Y_005--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1f60c.mp4.png"
+      },
+      {
+        "video": "WM_Y_004--6447b280-28b1-48f2-b0ba-ab30480f2bfb_1f60c.mp4",
+        "plot": "rank_counts__WM_Y_004--6447b280-28b1-48f2-b0ba-ab30480f2bfb_1f60c.mp4.png"
+      },
+      {
+        "video": "WF_Y_006--a9a88eb4-523a-40bc-aaa4-963f63f7dbca_1f60c.mp4",
+        "plot": "rank_counts__WF_Y_006--a9a88eb4-523a-40bc-aaa4-963f63f7dbca_1f60c.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--2a4be810-a53e-4549-8276-d1299e449b04_1f60c.mp4",
+        "plot": "rank_counts__AF_Y_004--2a4be810-a53e-4549-8276-d1299e449b04_1f60c.mp4.png"
+      },
+      {
+        "video": "WF_Y_006--bf33a0bc-64c2-4ebd-ae09-f1d7ee7df11b_1f60c.mp4",
+        "plot": "rank_counts__WF_Y_006--bf33a0bc-64c2-4ebd-ae09-f1d7ee7df11b_1f60c.mp4.png"
+      },
+      {
+        "video": "AF_Y_009--56b3148f-6774-4053-b3d5-c5587f134433_1f60c.mp4",
+        "plot": "rank_counts__AF_Y_009--56b3148f-6774-4053-b3d5-c5587f134433_1f60c.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--2bf66241-d18f-4037-835d-d2a9d9bdab9d_1f60c.mp4",
+        "plot": "rank_counts__AF_Y_004--2bf66241-d18f-4037-835d-d2a9d9bdab9d_1f60c.mp4.png"
+      },
+      {
+        "video": "WF_Y_004--e4b5fda6-b534-4f23-a97b-0f311250edf2_1f60c.mp4",
+        "plot": "rank_counts__WF_Y_004--e4b5fda6-b534-4f23-a97b-0f311250edf2_1f60c.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f60d.png",
+    "emoji_code": "1f60d",
+    "samples": [
+      {
+        "video": "WF_Y_005--e4b5fda6-b534-4f23-a97b-0f311250edf2_1f60d.mp4",
+        "plot": "rank_counts__WF_Y_005--e4b5fda6-b534-4f23-a97b-0f311250edf2_1f60d.mp4.png"
+      },
+      {
+        "video": "AF_Y_003--2a4be810-a53e-4549-8276-d1299e449b04_1f60d.mp4",
+        "plot": "rank_counts__AF_Y_003--2a4be810-a53e-4549-8276-d1299e449b04_1f60d.mp4.png"
+      },
+      {
+        "video": "AF_Y_005--8701c278-fdd4-418b-9b41-12d61e02f27f_1f60d.mp4",
+        "plot": "rank_counts__AF_Y_005--8701c278-fdd4-418b-9b41-12d61e02f27f_1f60d.mp4.png"
+      },
+      {
+        "video": "WF_Y_005--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f60d.mp4",
+        "plot": "rank_counts__WF_Y_005--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f60d.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--67d2453f-dfa2-4c76-84f0-984d86d20275_1f60d.mp4",
+        "plot": "rank_counts__AF_Y_001--67d2453f-dfa2-4c76-84f0-984d86d20275_1f60d.mp4.png"
+      },
+      {
+        "video": "WF_Y_001--1a55afb1-b3df-4b57-9db4-088546aa161b_1f60d.mp4",
+        "plot": "rank_counts__WF_Y_001--1a55afb1-b3df-4b57-9db4-088546aa161b_1f60d.mp4.png"
+      },
+      {
+        "video": "AF_Y_005--d3e8649a-4bf5-41f2-b4f1-ebaf4151d15d_1f60d.mp4",
+        "plot": "rank_counts__AF_Y_005--d3e8649a-4bf5-41f2-b4f1-ebaf4151d15d_1f60d.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--4535c013-280d-4d0c-814f-92b15ef94470_1f60d.mp4",
+        "plot": "rank_counts__AF_Y_001--4535c013-280d-4d0c-814f-92b15ef94470_1f60d.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f60e.png",
+    "emoji_code": "1f60e",
+    "samples": [
+      {
+        "video": "AM_Y_001--44ac65f5-1064-4718-b602-f66486c586bd_1f60e.mp4",
+        "plot": "rank_counts__AM_Y_001--44ac65f5-1064-4718-b602-f66486c586bd_1f60e.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--35aa8ca5-d587-4966-83e5-da2214f575bf_1f60e.mp4",
+        "plot": "rank_counts__AF_Y_001--35aa8ca5-d587-4966-83e5-da2214f575bf_1f60e.mp4.png"
+      },
+      {
+        "video": "AF_Y_005--8701c278-fdd4-418b-9b41-12d61e02f27f_1f60e.mp4",
+        "plot": "rank_counts__AF_Y_005--8701c278-fdd4-418b-9b41-12d61e02f27f_1f60e.mp4.png"
+      },
+      {
+        "video": "AF_Y_005--9c341823-510c-41c2-ba89-eacd03d285c9_1f60e.mp4",
+        "plot": "rank_counts__AF_Y_005--9c341823-510c-41c2-ba89-eacd03d285c9_1f60e.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--d50cf243-3ed6-467d-b60c-45fe20d1acc5_1f60e.mp4",
+        "plot": "rank_counts__LF_Y_001--d50cf243-3ed6-467d-b60c-45fe20d1acc5_1f60e.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--87c3c924-1f3c-4e3a-9ba6-901fa5d5858e_1f60e.mp4",
+        "plot": "rank_counts__AF_Y_004--87c3c924-1f3c-4e3a-9ba6-901fa5d5858e_1f60e.mp4.png"
+      },
+      {
+        "video": "AF_Y_008--d3e8649a-4bf5-41f2-b4f1-ebaf4151d15d_1f60e.mp4",
+        "plot": "rank_counts__AF_Y_008--d3e8649a-4bf5-41f2-b4f1-ebaf4151d15d_1f60e.mp4.png"
+      },
+      {
+        "video": "WF_Y_003--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f60e.mp4",
+        "plot": "rank_counts__WF_Y_003--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f60e.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--20ee2d9f-1dad-4fa0-b8f1-2fe7a82aa945_1f60e.mp4",
+        "plot": "rank_counts__LF_Y_002--20ee2d9f-1dad-4fa0-b8f1-2fe7a82aa945_1f60e.mp4.png"
+      },
+      {
+        "video": "AF_Y_006--572de8c4-5e3e-4da1-a377-e94d45723990_1f60e.mp4",
+        "plot": "rank_counts__AF_Y_006--572de8c4-5e3e-4da1-a377-e94d45723990_1f60e.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f60f.png",
+    "emoji_code": "1f60f",
+    "samples": [
+      {
+        "video": "AF_Y_003--92d2d3e8-2c6f-4053-83e5-79de5f7fc6ec_1f60f.mp4",
+        "plot": "rank_counts__AF_Y_003--92d2d3e8-2c6f-4053-83e5-79de5f7fc6ec_1f60f.mp4.png"
+      },
+      {
+        "video": "AM_Y_001--8681f750-12f8-4a33-aa58-3f5f82873d94_1f60f.mp4",
+        "plot": "rank_counts__AM_Y_001--8681f750-12f8-4a33-aa58-3f5f82873d94_1f60f.mp4.png"
+      },
+      {
+        "video": "WF_Y_002--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f60f.mp4",
+        "plot": "rank_counts__WF_Y_002--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f60f.mp4.png"
+      },
+      {
+        "video": "AF_Y_008--ec8fee8a-ee4c-4a3e-b200-2e02e527f4c3_1f60f.mp4",
+        "plot": "rank_counts__AF_Y_008--ec8fee8a-ee4c-4a3e-b200-2e02e527f4c3_1f60f.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--0be6a29e-53b8-48c8-b3c1-a086a6daf659_1f60f.mp4",
+        "plot": "rank_counts__AF_Y_004--0be6a29e-53b8-48c8-b3c1-a086a6daf659_1f60f.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--3bde0305-5f4a-408c-bf09-db287f45592d_1f60f.mp4",
+        "plot": "rank_counts__LF_Y_001--3bde0305-5f4a-408c-bf09-db287f45592d_1f60f.mp4.png"
+      },
+      {
+        "video": "AF_Y_008--2b6881e1-e751-4ba4-ae19-3564aff1aa8c_1f60f.mp4",
+        "plot": "rank_counts__AF_Y_008--2b6881e1-e751-4ba4-ae19-3564aff1aa8c_1f60f.mp4.png"
+      },
+      {
+        "video": "AM_Y_004--dd3738f4-faef-4159-b129-8461434ffa79_1f60f.mp4",
+        "plot": "rank_counts__AM_Y_004--dd3738f4-faef-4159-b129-8461434ffa79_1f60f.mp4.png"
+      },
+      {
+        "video": "WF_Y_003--bfcff2ec-d9aa-4932-b9f9-271a4076d808_1f60f.mp4",
+        "plot": "rank_counts__WF_Y_003--bfcff2ec-d9aa-4932-b9f9-271a4076d808_1f60f.mp4.png"
+      },
+      {
+        "video": "WF_Y_004--56f874d4-b928-4ec8-8c4c-ebaff2f10de7_1f60f.mp4",
+        "plot": "rank_counts__WF_Y_004--56f874d4-b928-4ec8-8c4c-ebaff2f10de7_1f60f.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f611.png",
+    "emoji_code": "1f611",
+    "samples": [
+      {
+        "video": "WF_Y_005--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f611.mp4",
+        "plot": "rank_counts__WF_Y_005--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f611.mp4.png"
+      },
+      {
+        "video": "WF_Y_006--56f874d4-b928-4ec8-8c4c-ebaff2f10de7_1f611.mp4",
+        "plot": "rank_counts__WF_Y_006--56f874d4-b928-4ec8-8c4c-ebaff2f10de7_1f611.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--30408fa1-fe9b-4554-a24d-483c9958e798_1f611.mp4",
+        "plot": "rank_counts__LF_Y_002--30408fa1-fe9b-4554-a24d-483c9958e798_1f611.mp4.png"
+      },
+      {
+        "video": "AF_Y_002--9c341823-510c-41c2-ba89-eacd03d285c9_1f611.mp4",
+        "plot": "rank_counts__AF_Y_002--9c341823-510c-41c2-ba89-eacd03d285c9_1f611.mp4.png"
+      },
+      {
+        "video": "WF_Y_006--1a55afb1-b3df-4b57-9db4-088546aa161b_1f611.mp4",
+        "plot": "rank_counts__WF_Y_006--1a55afb1-b3df-4b57-9db4-088546aa161b_1f611.mp4.png"
+      },
+      {
+        "video": "WF_Y_004--bf33a0bc-64c2-4ebd-ae09-f1d7ee7df11b_1f611.mp4",
+        "plot": "rank_counts__WF_Y_004--bf33a0bc-64c2-4ebd-ae09-f1d7ee7df11b_1f611.mp4.png"
+      },
+      {
+        "video": "AF_Y_008--2a4be810-a53e-4549-8276-d1299e449b04_1f611.mp4",
+        "plot": "rank_counts__AF_Y_008--2a4be810-a53e-4549-8276-d1299e449b04_1f611.mp4.png"
+      },
+      {
+        "video": "AF_Y_009--3bea4686-b45b-48cf-be24-145325c871a6_1f611.mp4",
+        "plot": "rank_counts__AF_Y_009--3bea4686-b45b-48cf-be24-145325c871a6_1f611.mp4.png"
+      },
+      {
+        "video": "LM_Y_008--4f9eecfe-d716-46f4-b893-c2607ca1c69d_1f611.mp4",
+        "plot": "rank_counts__LM_Y_008--4f9eecfe-d716-46f4-b893-c2607ca1c69d_1f611.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--7989fa4c-6a8b-4808-ba82-4de858f0583b_1f611.mp4",
+        "plot": "rank_counts__LF_Y_001--7989fa4c-6a8b-4808-ba82-4de858f0583b_1f611.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f612.png",
+    "emoji_code": "1f612",
+    "samples": [
+      {
+        "video": "WF_Y_003--2e777d8f-c3cc-4076-893c-99549527cdc1_1f612.mp4",
+        "plot": "rank_counts__WF_Y_003--2e777d8f-c3cc-4076-893c-99549527cdc1_1f612.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--87c3c924-1f3c-4e3a-9ba6-901fa5d5858e_1f612.mp4",
+        "plot": "rank_counts__AF_Y_001--87c3c924-1f3c-4e3a-9ba6-901fa5d5858e_1f612.mp4.png"
+      },
+      {
+        "video": "AF_Y_008--4535c013-280d-4d0c-814f-92b15ef94470_1f612.mp4",
+        "plot": "rank_counts__AF_Y_008--4535c013-280d-4d0c-814f-92b15ef94470_1f612.mp4.png"
+      },
+      {
+        "video": "AF_Y_006--bf60bfae-c954-4a17-b1cc-db7c0b17771d_1f612.mp4",
+        "plot": "rank_counts__AF_Y_006--bf60bfae-c954-4a17-b1cc-db7c0b17771d_1f612.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--a806638f-e6e6-4857-a9be-5973697796e7_1f612.mp4",
+        "plot": "rank_counts__LF_Y_001--a806638f-e6e6-4857-a9be-5973697796e7_1f612.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--425bfe20-df9f-40d6-bfc5-305c26af5917_1f612.mp4",
+        "plot": "rank_counts__LF_Y_001--425bfe20-df9f-40d6-bfc5-305c26af5917_1f612.mp4.png"
+      },
+      {
+        "video": "AF_Y_008--8701c278-fdd4-418b-9b41-12d61e02f27f_1f612.mp4",
+        "plot": "rank_counts__AF_Y_008--8701c278-fdd4-418b-9b41-12d61e02f27f_1f612.mp4.png"
+      },
+      {
+        "video": "WF_Y_003--56f874d4-b928-4ec8-8c4c-ebaff2f10de7_1f612.mp4",
+        "plot": "rank_counts__WF_Y_003--56f874d4-b928-4ec8-8c4c-ebaff2f10de7_1f612.mp4.png"
+      },
+      {
+        "video": "WF_Y_005--c2ef6925-ce5a-4da1-b4b6-78ee639a66ae_1f612.mp4",
+        "plot": "rank_counts__WF_Y_005--c2ef6925-ce5a-4da1-b4b6-78ee639a66ae_1f612.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--d50cf243-3ed6-467d-b60c-45fe20d1acc5_1f612.mp4",
+        "plot": "rank_counts__LF_Y_001--d50cf243-3ed6-467d-b60c-45fe20d1acc5_1f612.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f614.png",
+    "emoji_code": "1f614",
+    "samples": [
+
+      {
+        "video": "AF_Y_002--2bf66241-d18f-4037-835d-d2a9d9bdab9d_1f614.mp4",
+        "plot": "rank_counts__AF_Y_002--2bf66241-d18f-4037-835d-d2a9d9bdab9d_1f614.mp4.png"
+      },
+      {
+        "video": "AM_Y_003--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1f614.mp4",
+        "plot": "rank_counts__AM_Y_003--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1f614.mp4.png"
+      },
+      {
+        "video": "AF_Y_006--35aa8ca5-d587-4966-83e5-da2214f575bf_1f614.mp4",
+        "plot": "rank_counts__AF_Y_006--35aa8ca5-d587-4966-83e5-da2214f575bf_1f614.mp4.png"
+      },
+      {
+        "video": "WF_Y_005--bfcff2ec-d9aa-4932-b9f9-271a4076d808_1f614.mp4",
+        "plot": "rank_counts__WF_Y_005--bfcff2ec-d9aa-4932-b9f9-271a4076d808_1f614.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--d50cf243-3ed6-467d-b60c-45fe20d1acc5_1f614.mp4",
+        "plot": "rank_counts__LF_Y_002--d50cf243-3ed6-467d-b60c-45fe20d1acc5_1f614.mp4.png"
+      },
+      {
+        "video": "WM_Y_001--6069af63-297b-4f4d-833a-c0dee1c9feb1_1f614.mp4",
+        "plot": "rank_counts__WM_Y_001--6069af63-297b-4f4d-833a-c0dee1c9feb1_1f614.mp4.png"
+      },
+      {
+        "video": "AM_Y_003--72b2b604-9408-44cc-99c4-65c18740890f_1f614.mp4",
+        "plot": "rank_counts__AM_Y_003--72b2b604-9408-44cc-99c4-65c18740890f_1f614.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--2a4be810-a53e-4549-8276-d1299e449b04_1f614.mp4",
+        "plot": "rank_counts__AF_Y_001--2a4be810-a53e-4549-8276-d1299e449b04_1f614.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--2b6881e1-e751-4ba4-ae19-3564aff1aa8c_1f614.mp4",
+        "plot": "rank_counts__AF_Y_001--2b6881e1-e751-4ba4-ae19-3564aff1aa8c_1f614.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f618.png",
+    "emoji_code": "1f618",
+    "samples": [
+
+      {
+        "video": "WF_Y_006--56f874d4-b928-4ec8-8c4c-ebaff2f10de7_1f618.mp4",
+        "plot": "rank_counts__WF_Y_006--56f874d4-b928-4ec8-8c4c-ebaff2f10de7_1f618.mp4.png"
+      },
+      {
+        "video": "WF_Y_005--1a55afb1-b3df-4b57-9db4-088546aa161b_1f618.mp4",
+        "plot": "rank_counts__WF_Y_005--1a55afb1-b3df-4b57-9db4-088546aa161b_1f618.mp4.png"
+      },
+      {
+        "video": "AF_Y_006--0e6bf2b5-aa85-4b53-8a74-2cec8710c864_1f618.mp4",
+        "plot": "rank_counts__AF_Y_006--0e6bf2b5-aa85-4b53-8a74-2cec8710c864_1f618.mp4.png"
+      },
+      {
+        "video": "AF_Y_007--d3e8649a-4bf5-41f2-b4f1-ebaf4151d15d_1f618.mp4",
+        "plot": "rank_counts__AF_Y_007--d3e8649a-4bf5-41f2-b4f1-ebaf4151d15d_1f618.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--2a4be810-a53e-4549-8276-d1299e449b04_1f618.mp4",
+        "plot": "rank_counts__AF_Y_001--2a4be810-a53e-4549-8276-d1299e449b04_1f618.mp4.png"
+      },
+      {
+        "video": "AM_Y_004--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1f618.mp4",
+        "plot": "rank_counts__AM_Y_004--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1f618.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--7e07a849-a8e3-4bd3-908c-11b334cd1f33_1f618.mp4",
+        "plot": "rank_counts__LF_Y_002--7e07a849-a8e3-4bd3-908c-11b334cd1f33_1f618.mp4.png"
+      },
+      {
+        "video": "AF_Y_007--669bbf99-c9e0-4a41-ab78-651a7e1f177e_1f618.mp4",
+        "plot": "rank_counts__AF_Y_007--669bbf99-c9e0-4a41-ab78-651a7e1f177e_1f618.mp4.png"
+      },
+      {
+        "video": "AF_Y_009--3bea4686-b45b-48cf-be24-145325c871a6_1f618.mp4",
+        "plot": "rank_counts__AF_Y_009--3bea4686-b45b-48cf-be24-145325c871a6_1f618.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f624.png",
+    "emoji_code": "1f624",
+    "samples": [
+      {
+        "video": "AF_Y_008--67d2453f-dfa2-4c76-84f0-984d86d20275_1f624.mp4",
+        "plot": "rank_counts__AF_Y_008--67d2453f-dfa2-4c76-84f0-984d86d20275_1f624.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--cd43ad96-8ebb-47e6-9d25-ac3e9bb20a56_1f624.mp4",
+        "plot": "rank_counts__LF_Y_002--cd43ad96-8ebb-47e6-9d25-ac3e9bb20a56_1f624.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--0be6a29e-53b8-48c8-b3c1-a086a6daf659_1f624.mp4",
+        "plot": "rank_counts__AF_Y_001--0be6a29e-53b8-48c8-b3c1-a086a6daf659_1f624.mp4.png"
+      },
+      {
+        "video": "WF_Y_004--1a55afb1-b3df-4b57-9db4-088546aa161b_1f624.mp4",
+        "plot": "rank_counts__WF_Y_004--1a55afb1-b3df-4b57-9db4-088546aa161b_1f624.mp4.png"
+      },
+      {
+        "video": "WF_Y_004--bf33a0bc-64c2-4ebd-ae09-f1d7ee7df11b_1f624.mp4",
+        "plot": "rank_counts__WF_Y_004--bf33a0bc-64c2-4ebd-ae09-f1d7ee7df11b_1f624.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--d3e8649a-4bf5-41f2-b4f1-ebaf4151d15d_1f624.mp4",
+        "plot": "rank_counts__AF_Y_004--d3e8649a-4bf5-41f2-b4f1-ebaf4151d15d_1f624.mp4.png"
+      },
+      {
+        "video": "WF_Y_003--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f624.mp4",
+        "plot": "rank_counts__WF_Y_003--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f624.mp4.png"
+      },
+      {
+        "video": "AF_Y_006--0e6bf2b5-aa85-4b53-8a74-2cec8710c864_1f624.mp4",
+        "plot": "rank_counts__AF_Y_006--0e6bf2b5-aa85-4b53-8a74-2cec8710c864_1f624.mp4.png"
+      },
+      {
+        "video": "AF_Y_009--8701c278-fdd4-418b-9b41-12d61e02f27f_1f624.mp4",
+        "plot": "rank_counts__AF_Y_009--8701c278-fdd4-418b-9b41-12d61e02f27f_1f624.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--20ee2d9f-1dad-4fa0-b8f1-2fe7a82aa945_1f624.mp4",
+        "plot": "rank_counts__LF_Y_001--20ee2d9f-1dad-4fa0-b8f1-2fe7a82aa945_1f624.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f62b.png",
+    "emoji_code": "1f62b",
+    "samples": [
+      {
+        "video": "WF_Y_006--d1c47015-bcc9-4ecc-8b10-10842c2132b3_1f62b.mp4",
+        "plot": "rank_counts__WF_Y_006--d1c47015-bcc9-4ecc-8b10-10842c2132b3_1f62b.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f62b.mp4",
+        "plot": "rank_counts__LF_Y_001--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f62b.mp4.png"
+      },
+      {
+        "video": "AF_Y_008--c552bf0f-b467-454f-bdb7-6bb592d3d752_1f62b.mp4",
+        "plot": "rank_counts__AF_Y_008--c552bf0f-b467-454f-bdb7-6bb592d3d752_1f62b.mp4.png"
+      },
+      {
+        "video": "AF_Y_002--67d2453f-dfa2-4c76-84f0-984d86d20275_1f62b.mp4",
+        "plot": "rank_counts__AF_Y_002--67d2453f-dfa2-4c76-84f0-984d86d20275_1f62b.mp4.png"
+      },
+      {
+        "video": "WF_Y_004--56d8e699-b3cc-4d22-851f-e8fe6212797a_1f62b.mp4",
+        "plot": "rank_counts__WF_Y_004--56d8e699-b3cc-4d22-851f-e8fe6212797a_1f62b.mp4.png"
+      },
+      {
+        "video": "WM_Y_007--6447b280-28b1-48f2-b0ba-ab30480f2bfb_1f62b.mp4",
+        "plot": "rank_counts__WM_Y_007--6447b280-28b1-48f2-b0ba-ab30480f2bfb_1f62b.mp4.png"
+      },
+      {
+        "video": "WF_Y_006--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f62b.mp4",
+        "plot": "rank_counts__WF_Y_006--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f62b.mp4.png"
+      },
+      {
+        "video": "AF_Y_006--87c3c924-1f3c-4e3a-9ba6-901fa5d5858e_1f62b.mp4",
+        "plot": "rank_counts__AF_Y_006--87c3c924-1f3c-4e3a-9ba6-901fa5d5858e_1f62b.mp4.png"
+      },
+      {
+        "video": "LM_Y_005--17daef2f-e5a9-4a9b-8f40-3cb4ab4e45e1_1f62b.mp4",
+        "plot": "rank_counts__LM_Y_005--17daef2f-e5a9-4a9b-8f40-3cb4ab4e45e1_1f62b.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--3bde0305-5f4a-408c-bf09-db287f45592d_1f62b.mp4",
+        "plot": "rank_counts__LF_Y_002--3bde0305-5f4a-408c-bf09-db287f45592d_1f62b.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f62c.png",
+    "emoji_code": "1f62c",
+    "samples": [
+      {
+        "video": "WF_Y_005--bfcff2ec-d9aa-4932-b9f9-271a4076d808_1f62c.mp4",
+        "plot": "rank_counts__WF_Y_005--bfcff2ec-d9aa-4932-b9f9-271a4076d808_1f62c.mp4.png"
+      },
+      {
+        "video": "AF_Y_008--56b3148f-6774-4053-b3d5-c5587f134433_1f62c.mp4",
+        "plot": "rank_counts__AF_Y_008--56b3148f-6774-4053-b3d5-c5587f134433_1f62c.mp4.png"
+      },
+      {
+        "video": "LM_Y_009--3db15e27-7cd9-4f3b-b385-3b7c70c39e80_1f62c.mp4",
+        "plot": "rank_counts__LM_Y_009--3db15e27-7cd9-4f3b-b385-3b7c70c39e80_1f62c.mp4.png"
+      },
+      {
+        "video": "WF_Y_003--56f874d4-b928-4ec8-8c4c-ebaff2f10de7_1f62c.mp4",
+        "plot": "rank_counts__WF_Y_003--56f874d4-b928-4ec8-8c4c-ebaff2f10de7_1f62c.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--7989fa4c-6a8b-4808-ba82-4de858f0583b_1f62c.mp4",
+        "plot": "rank_counts__LF_Y_001--7989fa4c-6a8b-4808-ba82-4de858f0583b_1f62c.mp4.png"
+      },
+      {
+        "video": "WF_Y_006--c2ef6925-ce5a-4da1-b4b6-78ee639a66ae_1f62c.mp4",
+        "plot": "rank_counts__WF_Y_006--c2ef6925-ce5a-4da1-b4b6-78ee639a66ae_1f62c.mp4.png"
+      },
+      {
+        "video": "WF_Y_004--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f62c.mp4",
+        "plot": "rank_counts__WF_Y_004--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f62c.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f62c.mp4",
+        "plot": "rank_counts__LF_Y_002--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f62c.mp4.png"
+      },
+      {
+        "video": "AF_Y_002--572de8c4-5e3e-4da1-a377-e94d45723990_1f62c.mp4",
+        "plot": "rank_counts__AF_Y_002--572de8c4-5e3e-4da1-a377-e94d45723990_1f62c.mp4.png"
+      },
+      {
+        "video": "AF_Y_006--9c341823-510c-41c2-ba89-eacd03d285c9_1f62c.mp4",
+        "plot": "rank_counts__AF_Y_006--9c341823-510c-41c2-ba89-eacd03d285c9_1f62c.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f62d.png",
+    "emoji_code": "1f62d",
+    "samples": [
+      {
+        "video": "LF_Y_002--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f62d.mp4",
+        "plot": "rank_counts__LF_Y_002--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f62d.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--3bde0305-5f4a-408c-bf09-db287f45592d_1f62d.mp4",
+        "plot": "rank_counts__LF_Y_002--3bde0305-5f4a-408c-bf09-db287f45592d_1f62d.mp4.png"
+      },
+      {
+        "video": "AF_Y_003--8701c278-fdd4-418b-9b41-12d61e02f27f_1f62d.mp4",
+        "plot": "rank_counts__AF_Y_003--8701c278-fdd4-418b-9b41-12d61e02f27f_1f62d.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--8b4ce2e1-139b-48a0-8cd5-17cb106783f8_1f62d.mp4",
+        "plot": "rank_counts__AF_Y_001--8b4ce2e1-139b-48a0-8cd5-17cb106783f8_1f62d.mp4.png"
+      },
+      {
+        "video": "AF_Y_006--669bbf99-c9e0-4a41-ab78-651a7e1f177e_1f62d.mp4",
+        "plot": "rank_counts__AF_Y_006--669bbf99-c9e0-4a41-ab78-651a7e1f177e_1f62d.mp4.png"
+      },
+      {
+        "video": "AF_Y_006--5ed5db40-feb0-4098-abdf-f9a9b4bb7b88_1f62d.mp4",
+        "plot": "rank_counts__AF_Y_006--5ed5db40-feb0-4098-abdf-f9a9b4bb7b88_1f62d.mp4.png"
+      },
+      {
+        "video": "AF_Y_003--9c341823-510c-41c2-ba89-eacd03d285c9_1f62d.mp4",
+        "plot": "rank_counts__AF_Y_003--9c341823-510c-41c2-ba89-eacd03d285c9_1f62d.mp4.png"
+      },
+      {
+        "video": "AF_Y_002--2bf66241-d18f-4037-835d-d2a9d9bdab9d_1f62d.mp4",
+        "plot": "rank_counts__AF_Y_002--2bf66241-d18f-4037-835d-d2a9d9bdab9d_1f62d.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--c801630f-eac5-443b-a33e-a3714981a1c3_1f62d.mp4",
+        "plot": "rank_counts__LF_Y_002--c801630f-eac5-443b-a33e-a3714981a1c3_1f62d.mp4.png"
+      },
+      {
+        "video": "WF_Y_001--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f62d.mp4",
+        "plot": "rank_counts__WF_Y_001--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f62d.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f62e.png",
+    "emoji_code": "1f62e",
+    "samples": [
+      {
+        "video": "AM_Y_004--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1f62e.mp4",
+        "plot": "rank_counts__AM_Y_004--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1f62e.mp4.png"
+      },
+      {
+        "video": "WF_Y_003--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f62e.mp4",
+        "plot": "rank_counts__WF_Y_003--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f62e.mp4.png"
+      },
+      {
+        "video": "AF_Y_003--8b4ce2e1-139b-48a0-8cd5-17cb106783f8_1f62e.mp4",
+        "plot": "rank_counts__AF_Y_003--8b4ce2e1-139b-48a0-8cd5-17cb106783f8_1f62e.mp4.png"
+      },
+      {
+        "video": "AF_Y_005--87c3c924-1f3c-4e3a-9ba6-901fa5d5858e_1f62e.mp4",
+        "plot": "rank_counts__AF_Y_005--87c3c924-1f3c-4e3a-9ba6-901fa5d5858e_1f62e.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--a806638f-e6e6-4857-a9be-5973697796e7_1f62e.mp4",
+        "plot": "rank_counts__LF_Y_002--a806638f-e6e6-4857-a9be-5973697796e7_1f62e.mp4.png"
+      },
+      {
+        "video": "AF_Y_003--517855b3-9211-49bd-a5de-a1c236aa7202_1f62e.mp4",
+        "plot": "rank_counts__AF_Y_003--517855b3-9211-49bd-a5de-a1c236aa7202_1f62e.mp4.png"
+      },
+      {
+        "video": "AM_Y_001--8681f750-12f8-4a33-aa58-3f5f82873d94_1f62e.mp4",
+        "plot": "rank_counts__AM_Y_001--8681f750-12f8-4a33-aa58-3f5f82873d94_1f62e.mp4.png"
+      },
+      {
+        "video": "WM_Y_007--6447b280-28b1-48f2-b0ba-ab30480f2bfb_1f62e.mp4",
+        "plot": "rank_counts__WM_Y_007--6447b280-28b1-48f2-b0ba-ab30480f2bfb_1f62e.mp4.png"
+      },
+      {
+        "video": "WF_Y_005--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f62e.mp4",
+        "plot": "rank_counts__WF_Y_005--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f62e.mp4.png"
+      },
+      {
+        "video": "AF_Y_005--8701c278-fdd4-418b-9b41-12d61e02f27f_1f62e.mp4",
+        "plot": "rank_counts__AF_Y_005--8701c278-fdd4-418b-9b41-12d61e02f27f_1f62e.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f62f.png",
+    "emoji_code": "1f62f",
+    "samples": [
+      {
+        "video": "AF_Y_001--9c341823-510c-41c2-ba89-eacd03d285c9_1f62f.mp4",
+        "plot": "rank_counts__AF_Y_001--9c341823-510c-41c2-ba89-eacd03d285c9_1f62f.mp4.png"
+      },
+      {
+        "video": "AM_Y_002--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1f62f.mp4",
+        "plot": "rank_counts__AM_Y_002--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1f62f.mp4.png"
+      },
+      {
+        "video": "WM_Y_010--6069af63-297b-4f4d-833a-c0dee1c9feb1_1f62f.mp4",
+        "plot": "rank_counts__WM_Y_010--6069af63-297b-4f4d-833a-c0dee1c9feb1_1f62f.mp4.png"
+      },
+      {
+        "video": "AF_Y_006--2b6881e1-e751-4ba4-ae19-3564aff1aa8c_1f62f.mp4",
+        "plot": "rank_counts__AF_Y_006--2b6881e1-e751-4ba4-ae19-3564aff1aa8c_1f62f.mp4.png"
+      },
+      {
+        "video": "AF_Y_002--94d6fff4-9a4a-4f84-b732-0ab916673ad0_1f62f.mp4",
+        "plot": "rank_counts__AF_Y_002--94d6fff4-9a4a-4f84-b732-0ab916673ad0_1f62f.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f62f.mp4",
+        "plot": "rank_counts__LF_Y_002--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f62f.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--5ed5db40-feb0-4098-abdf-f9a9b4bb7b88_1f62f.mp4",
+        "plot": "rank_counts__AF_Y_004--5ed5db40-feb0-4098-abdf-f9a9b4bb7b88_1f62f.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--0810b613-86fe-401a-a490-26b9e3d1fc2f_1f62f.mp4",
+        "plot": "rank_counts__LF_Y_002--0810b613-86fe-401a-a490-26b9e3d1fc2f_1f62f.mp4.png"
+      },
+      {
+        "video": "AF_Y_002--3bea4686-b45b-48cf-be24-145325c871a6_1f62f.mp4",
+        "plot": "rank_counts__AF_Y_002--3bea4686-b45b-48cf-be24-145325c871a6_1f62f.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--7e07a849-a8e3-4bd3-908c-11b334cd1f33_1f62f.mp4",
+        "plot": "rank_counts__LF_Y_001--7e07a849-a8e3-4bd3-908c-11b334cd1f33_1f62f.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f630.png",
+    "emoji_code": "1f630",
+    "samples": [
+      {
+        "video": "WF_Y_001--bfcff2ec-d9aa-4932-b9f9-271a4076d808_1f630.mp4",
+        "plot": "rank_counts__WF_Y_001--bfcff2ec-d9aa-4932-b9f9-271a4076d808_1f630.mp4.png"
+      },
+      {
+        "video": "LM_Y_009--3db15e27-7cd9-4f3b-b385-3b7c70c39e80_1f630.mp4",
+        "plot": "rank_counts__LM_Y_009--3db15e27-7cd9-4f3b-b385-3b7c70c39e80_1f630.mp4.png"
+      },
+      {
+        "video": "AF_Y_002--3bea4686-b45b-48cf-be24-145325c871a6_1f630.mp4",
+        "plot": "rank_counts__AF_Y_002--3bea4686-b45b-48cf-be24-145325c871a6_1f630.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--517855b3-9211-49bd-a5de-a1c236aa7202_1f630.mp4",
+        "plot": "rank_counts__AF_Y_004--517855b3-9211-49bd-a5de-a1c236aa7202_1f630.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--d50cf243-3ed6-467d-b60c-45fe20d1acc5_1f630.mp4",
+        "plot": "rank_counts__LF_Y_001--d50cf243-3ed6-467d-b60c-45fe20d1acc5_1f630.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--87c3c924-1f3c-4e3a-9ba6-901fa5d5858e_1f630.mp4",
+        "plot": "rank_counts__AF_Y_001--87c3c924-1f3c-4e3a-9ba6-901fa5d5858e_1f630.mp4.png"
+      },
+      {
+        "video": "AF_Y_005--0e6bf2b5-aa85-4b53-8a74-2cec8710c864_1f630.mp4",
+        "plot": "rank_counts__AF_Y_005--0e6bf2b5-aa85-4b53-8a74-2cec8710c864_1f630.mp4.png"
+      },
+      {
+        "video": "AF_Y_003--572de8c4-5e3e-4da1-a377-e94d45723990_1f630.mp4",
+        "plot": "rank_counts__AF_Y_003--572de8c4-5e3e-4da1-a377-e94d45723990_1f630.mp4.png"
+      },
+      {
+        "video": "WF_Y_002--a9a88eb4-523a-40bc-aaa4-963f63f7dbca_1f630.mp4",
+        "plot": "rank_counts__WF_Y_002--a9a88eb4-523a-40bc-aaa4-963f63f7dbca_1f630.mp4.png"
+      },
+      {
+        "video": "WF_Y_004--56d8e699-b3cc-4d22-851f-e8fe6212797a_1f630.mp4",
+        "plot": "rank_counts__WF_Y_004--56d8e699-b3cc-4d22-851f-e8fe6212797a_1f630.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f631.png",
+    "emoji_code": "1f631",
+    "samples": [
+      {
+        "video": "WF_Y_002--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f631.mp4",
+        "plot": "rank_counts__WF_Y_002--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f631.mp4.png"
+      },
+      {
+        "video": "AM_Y_004--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1f631.mp4",
+        "plot": "rank_counts__AM_Y_004--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1f631.mp4.png"
+      },
+      {
+        "video": "AF_Y_006--d3e8649a-4bf5-41f2-b4f1-ebaf4151d15d_1f631.mp4",
+        "plot": "rank_counts__AF_Y_006--d3e8649a-4bf5-41f2-b4f1-ebaf4151d15d_1f631.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--d50cf243-3ed6-467d-b60c-45fe20d1acc5_1f631.mp4",
+        "plot": "rank_counts__LF_Y_001--d50cf243-3ed6-467d-b60c-45fe20d1acc5_1f631.mp4.png"
+      },
+      {
+        "video": "WF_Y_005--bfcff2ec-d9aa-4932-b9f9-271a4076d808_1f631.mp4",
+        "plot": "rank_counts__WF_Y_005--bfcff2ec-d9aa-4932-b9f9-271a4076d808_1f631.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f631.mp4",
+        "plot": "rank_counts__LF_Y_001--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f631.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--7989fa4c-6a8b-4808-ba82-4de858f0583b_1f631.mp4",
+        "plot": "rank_counts__LF_Y_001--7989fa4c-6a8b-4808-ba82-4de858f0583b_1f631.mp4.png"
+      },
+      {
+        "video": "AM_Y_002--d41dc2c1-c3b0-480a-a175-2ad3cb5fc137_1f631.mp4",
+        "plot": "rank_counts__AM_Y_002--d41dc2c1-c3b0-480a-a175-2ad3cb5fc137_1f631.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--9c341823-510c-41c2-ba89-eacd03d285c9_1f631.mp4",
+        "plot": "rank_counts__AF_Y_001--9c341823-510c-41c2-ba89-eacd03d285c9_1f631.mp4.png"
+      },
+      {
+        "video": "WF_Y_002--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f631.mp4",
+        "plot": "rank_counts__WF_Y_002--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f631.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f633.png",
+    "emoji_code": "1f633",
+    "samples": [
+      {
+        "video": "AM_Y_003--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1f633.mp4",
+        "plot": "rank_counts__AM_Y_003--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1f633.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--4f446a64-8b8f-41f0-aa54-7795a179f436_1f633.mp4",
+        "plot": "rank_counts__AF_Y_001--4f446a64-8b8f-41f0-aa54-7795a179f436_1f633.mp4.png"
+      },
+      {
+        "video": "WF_Y_004--56f874d4-b928-4ec8-8c4c-ebaff2f10de7_1f633.mp4",
+        "plot": "rank_counts__WF_Y_004--56f874d4-b928-4ec8-8c4c-ebaff2f10de7_1f633.mp4.png"
+      },
+      {
+        "video": "LM_Y_006--3db15e27-7cd9-4f3b-b385-3b7c70c39e80_1f633.mp4",
+        "plot": "rank_counts__LM_Y_006--3db15e27-7cd9-4f3b-b385-3b7c70c39e80_1f633.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--d50cf243-3ed6-467d-b60c-45fe20d1acc5_1f633.mp4",
+        "plot": "rank_counts__LF_Y_001--d50cf243-3ed6-467d-b60c-45fe20d1acc5_1f633.mp4.png"
+      },
+      {
+        "video": "AF_Y_003--92d2d3e8-2c6f-4053-83e5-79de5f7fc6ec_1f633.mp4",
+        "plot": "rank_counts__AF_Y_003--92d2d3e8-2c6f-4053-83e5-79de5f7fc6ec_1f633.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--8b4ce2e1-139b-48a0-8cd5-17cb106783f8_1f633.mp4",
+        "plot": "rank_counts__AF_Y_004--8b4ce2e1-139b-48a0-8cd5-17cb106783f8_1f633.mp4.png"
+      },
+      {
+        "video": "WF_Y_006--e4b5fda6-b534-4f23-a97b-0f311250edf2_1f633.mp4",
+        "plot": "rank_counts__WF_Y_006--e4b5fda6-b534-4f23-a97b-0f311250edf2_1f633.mp4.png"
+      },
+      {
+        "video": "WF_Y_002--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f633.mp4",
+        "plot": "rank_counts__WF_Y_002--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f633.mp4.png"
+      },
+      {
+        "video": "LM_Y_008--4f9eecfe-d716-46f4-b893-c2607ca1c69d_1f633.mp4",
+        "plot": "rank_counts__LM_Y_008--4f9eecfe-d716-46f4-b893-c2607ca1c69d_1f633.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f634.png",
+    "emoji_code": "1f634",
+    "samples": [
+      {
+        "video": "WF_Y_004--bfcff2ec-d9aa-4932-b9f9-271a4076d808_1f634.mp4",
+        "plot": "rank_counts__WF_Y_004--bfcff2ec-d9aa-4932-b9f9-271a4076d808_1f634.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f634.mp4",
+        "plot": "rank_counts__LF_Y_002--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f634.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--425bfe20-df9f-40d6-bfc5-305c26af5917_1f634.mp4",
+        "plot": "rank_counts__LF_Y_001--425bfe20-df9f-40d6-bfc5-305c26af5917_1f634.mp4.png"
+      },
+      {
+        "video": "WM_Y_004--6069af63-297b-4f4d-833a-c0dee1c9feb1_1f634.mp4",
+        "plot": "rank_counts__WM_Y_004--6069af63-297b-4f4d-833a-c0dee1c9feb1_1f634.mp4.png"
+      },
+      {
+        "video": "LM_Y_009--4f9eecfe-d716-46f4-b893-c2607ca1c69d_1f634.mp4",
+        "plot": "rank_counts__LM_Y_009--4f9eecfe-d716-46f4-b893-c2607ca1c69d_1f634.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--d3e8649a-4bf5-41f2-b4f1-ebaf4151d15d_1f634.mp4",
+        "plot": "rank_counts__AF_Y_001--d3e8649a-4bf5-41f2-b4f1-ebaf4151d15d_1f634.mp4.png"
+      },
+      {
+        "video": "AF_Y_009--9c1a98df-21de-41a6-bb2e-31a8fc19998a_1f634.mp4",
+        "plot": "rank_counts__AF_Y_009--9c1a98df-21de-41a6-bb2e-31a8fc19998a_1f634.mp4.png"
+      },
+      {
+        "video": "WF_Y_006--56d8e699-b3cc-4d22-851f-e8fe6212797a_1f634.mp4",
+        "plot": "rank_counts__WF_Y_006--56d8e699-b3cc-4d22-851f-e8fe6212797a_1f634.mp4.png"
+      },
+      {
+        "video": "AF_Y_007--2a4be810-a53e-4549-8276-d1299e449b04_1f634.mp4",
+        "plot": "rank_counts__AF_Y_007--2a4be810-a53e-4549-8276-d1299e449b04_1f634.mp4.png"
+      },
+      {
+        "video": "AF_Y_006--84b7c199-5a73-4887-9925-d2cae7f98a73_1f634.mp4",
+        "plot": "rank_counts__AF_Y_006--84b7c199-5a73-4887-9925-d2cae7f98a73_1f634.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f644.png",
+    "emoji_code": "1f644",
+    "samples": [
+      {
+        "video": "AF_Y_005--5ed5db40-feb0-4098-abdf-f9a9b4bb7b88_1f644.mp4",
+        "plot": "rank_counts__AF_Y_005--5ed5db40-feb0-4098-abdf-f9a9b4bb7b88_1f644.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--7e07a849-a8e3-4bd3-908c-11b334cd1f33_1f644.mp4",
+        "plot": "rank_counts__LF_Y_002--7e07a849-a8e3-4bd3-908c-11b334cd1f33_1f644.mp4.png"
+      },
+      {
+        "video": "WF_Y_004--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f644.mp4",
+        "plot": "rank_counts__WF_Y_004--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f644.mp4.png"
+      },
+      {
+        "video": "AF_Y_007--3bea4686-b45b-48cf-be24-145325c871a6_1f644.mp4",
+        "plot": "rank_counts__AF_Y_007--3bea4686-b45b-48cf-be24-145325c871a6_1f644.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f644.mp4",
+        "plot": "rank_counts__LF_Y_001--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f644.mp4.png"
+      },
+      {
+        "video": "WF_Y_004--d1c47015-bcc9-4ecc-8b10-10842c2132b3_1f644.mp4",
+        "plot": "rank_counts__WF_Y_004--d1c47015-bcc9-4ecc-8b10-10842c2132b3_1f644.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--2a4be810-a53e-4549-8276-d1299e449b04_1f644.mp4",
+        "plot": "rank_counts__AF_Y_001--2a4be810-a53e-4549-8276-d1299e449b04_1f644.mp4.png"
+      },
+      {
+        "video": "WF_Y_003--c2ef6925-ce5a-4da1-b4b6-78ee639a66ae_1f644.mp4",
+        "plot": "rank_counts__WF_Y_003--c2ef6925-ce5a-4da1-b4b6-78ee639a66ae_1f644.mp4.png"
+      },
+      {
+        "video": "WF_Y_004--1a55afb1-b3df-4b57-9db4-088546aa161b_1f644.mp4",
+        "plot": "rank_counts__WF_Y_004--1a55afb1-b3df-4b57-9db4-088546aa161b_1f644.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f914.png",
+    "emoji_code": "1f914",
+    "samples": [
+      {
+        "video": "AF_Y_008--0e6bf2b5-aa85-4b53-8a74-2cec8710c864_1f914.mp4",
+        "plot": "rank_counts__AF_Y_008--0e6bf2b5-aa85-4b53-8a74-2cec8710c864_1f914.mp4.png"
+      },
+      {
+        "video": "AF_Y_005--572de8c4-5e3e-4da1-a377-e94d45723990_1f914.mp4",
+        "plot": "rank_counts__AF_Y_005--572de8c4-5e3e-4da1-a377-e94d45723990_1f914.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--7e07a849-a8e3-4bd3-908c-11b334cd1f33_1f914.mp4",
+        "plot": "rank_counts__LF_Y_001--7e07a849-a8e3-4bd3-908c-11b334cd1f33_1f914.mp4.png"
+      },
+      {
+        "video": "WF_Y_001--d1c47015-bcc9-4ecc-8b10-10842c2132b3_1f914.mp4",
+        "plot": "rank_counts__WF_Y_001--d1c47015-bcc9-4ecc-8b10-10842c2132b3_1f914.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--accc63d1-366d-4ea0-8ce8-a207d7286b26_1f914.mp4",
+        "plot": "rank_counts__LF_Y_001--accc63d1-366d-4ea0-8ce8-a207d7286b26_1f914.mp4.png"
+      },
+      {
+        "video": "AF_Y_008--d3e8649a-4bf5-41f2-b4f1-ebaf4151d15d_1f914.mp4",
+        "plot": "rank_counts__AF_Y_008--d3e8649a-4bf5-41f2-b4f1-ebaf4151d15d_1f914.mp4.png"
+      },
+      {
+        "video": "AF_Y_007--b92f811d-880f-4845-8b57-035df76665c0_1f914.mp4",
+        "plot": "rank_counts__AF_Y_007--b92f811d-880f-4845-8b57-035df76665c0_1f914.mp4.png"
+      },
+      {
+        "video": "LM_Y_009--4f9eecfe-d716-46f4-b893-c2607ca1c69d_1f914.mp4",
+        "plot": "rank_counts__LM_Y_009--4f9eecfe-d716-46f4-b893-c2607ca1c69d_1f914.mp4.png"
+      },
+      {
+        "video": "AM_Y_005--8681f750-12f8-4a33-aa58-3f5f82873d94_1f914.mp4",
+        "plot": "rank_counts__AM_Y_005--8681f750-12f8-4a33-aa58-3f5f82873d94_1f914.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f922.png",
+    "emoji_code": "1f922",
+    "samples": [
+      {
+        "video": "WF_Y_003--56d8e699-b3cc-4d22-851f-e8fe6212797a_1f922.mp4",
+        "plot": "rank_counts__WF_Y_003--56d8e699-b3cc-4d22-851f-e8fe6212797a_1f922.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--bf60bfae-c954-4a17-b1cc-db7c0b17771d_1f922.mp4",
+        "plot": "rank_counts__AF_Y_004--bf60bfae-c954-4a17-b1cc-db7c0b17771d_1f922.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--3bde0305-5f4a-408c-bf09-db287f45592d_1f922.mp4",
+        "plot": "rank_counts__LF_Y_002--3bde0305-5f4a-408c-bf09-db287f45592d_1f922.mp4.png"
+      },
+      {
+        "video": "AF_Y_002--56b3148f-6774-4053-b3d5-c5587f134433_1f922.mp4",
+        "plot": "rank_counts__AF_Y_002--56b3148f-6774-4053-b3d5-c5587f134433_1f922.mp4.png"
+      },
+      {
+        "video": "AF_Y_005--2a4be810-a53e-4549-8276-d1299e449b04_1f922.mp4",
+        "plot": "rank_counts__AF_Y_005--2a4be810-a53e-4549-8276-d1299e449b04_1f922.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--20ee2d9f-1dad-4fa0-b8f1-2fe7a82aa945_1f922.mp4",
+        "plot": "rank_counts__LF_Y_002--20ee2d9f-1dad-4fa0-b8f1-2fe7a82aa945_1f922.mp4.png"
+      },
+      {
+        "video": "WF_Y_002--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f922.mp4",
+        "plot": "rank_counts__WF_Y_002--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f922.mp4.png"
+      },
+      {
+        "video": "WF_Y_004--bfcff2ec-d9aa-4932-b9f9-271a4076d808_1f922.mp4",
+        "plot": "rank_counts__WF_Y_004--bfcff2ec-d9aa-4932-b9f9-271a4076d808_1f922.mp4.png"
+      },
+      {
+        "video": "AF_Y_006--517855b3-9211-49bd-a5de-a1c236aa7202_1f922.mp4",
+        "plot": "rank_counts__AF_Y_006--517855b3-9211-49bd-a5de-a1c236aa7202_1f922.mp4.png"
+      },
+      {
+        "video": "AF_Y_006--2bf66241-d18f-4037-835d-d2a9d9bdab9d_1f922.mp4",
+        "plot": "rank_counts__AF_Y_006--2bf66241-d18f-4037-835d-d2a9d9bdab9d_1f922.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f928.png",
+    "emoji_code": "1f928",
+    "samples": [
+      {
+        "video": "WF_Y_005--1a55afb1-b3df-4b57-9db4-088546aa161b_1f928.mp4",
+        "plot": "0056__rank_counts__WF_Y_005--1a55afb1-b3df-4b57-9db4-088546aa161b_1f928.mp4.png"
+      },
+      {
+        "video": "AM_Y_001--44ac65f5-1064-4718-b602-f66486c586bd_1f928.mp4",
+        "plot": "0025__rank_counts__AM_Y_001--44ac65f5-1064-4718-b602-f66486c586bd_1f928.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--7989fa4c-6a8b-4808-ba82-4de858f0583b_1f928.mp4",
+        "plot": "0035__rank_counts__LF_Y_001--7989fa4c-6a8b-4808-ba82-4de858f0583b_1f928.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--30408fa1-fe9b-4554-a24d-483c9958e798_1f928.mp4",
+        "plot": "0032__rank_counts__LF_Y_001--30408fa1-fe9b-4554-a24d-483c9958e798_1f928.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--e0b66f73-3c0a-44b0-a462-3557d2bcf04b_1f928.mp4",
+        "plot": "0040__rank_counts__LF_Y_001--e0b66f73-3c0a-44b0-a462-3557d2bcf04b_1f928.mp4.png"
+      },
+      {
+        "video": "LM_Y_001--3db15e27-7cd9-4f3b-b385-3b7c70c39e80_1f928.mp4",
+        "plot": "0045__rank_counts__LM_Y_001--3db15e27-7cd9-4f3b-b385-3b7c70c39e80_1f928.mp4.png"
+      },
+      {
+        "video": "AF_Y_006--bf60bfae-c954-4a17-b1cc-db7c0b17771d_1f928.mp4",
+        "plot": "0020__rank_counts__AF_Y_006--bf60bfae-c954-4a17-b1cc-db7c0b17771d_1f928.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--8701c278-fdd4-418b-9b41-12d61e02f27f_1f928.mp4",
+        "plot": "0003__rank_counts__AF_Y_001--8701c278-fdd4-418b-9b41-12d61e02f27f_1f928.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--56b3148f-6774-4053-b3d5-c5587f134433_1f928.mp4",
+        "plot": "0010__rank_counts__AF_Y_004--56b3148f-6774-4053-b3d5-c5587f134433_1f928.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--2bf66241-d18f-4037-835d-d2a9d9bdab9d_1f928.mp4",
+        "plot": "0000__rank_counts__AF_Y_001--2bf66241-d18f-4037-835d-d2a9d9bdab9d_1f928.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f929.png",
+    "emoji_code": "1f929",
+    "samples": [
+      {
+        "video": "AF_Y_004--a7a9bdf4-1296-4c53-b257-b42bd10d5528_1f929.mp4",
+        "plot": "rank_counts__AF_Y_004--a7a9bdf4-1296-4c53-b257-b42bd10d5528_1f929.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--3bde0305-5f4a-408c-bf09-db287f45592d_1f929.mp4",
+        "plot": "rank_counts__LF_Y_001--3bde0305-5f4a-408c-bf09-db287f45592d_1f929.mp4.png"
+      },
+      {
+        "video": "WF_Y_005--d1c47015-bcc9-4ecc-8b10-10842c2132b3_1f929.mp4",
+        "plot": "rank_counts__WF_Y_005--d1c47015-bcc9-4ecc-8b10-10842c2132b3_1f929.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--b92f811d-880f-4845-8b57-035df76665c0_1f929.mp4",
+        "plot": "rank_counts__AF_Y_001--b92f811d-880f-4845-8b57-035df76665c0_1f929.mp4.png"
+      },
+      {
+        "video": "AF_Y_002--56b3148f-6774-4053-b3d5-c5587f134433_1f929.mp4",
+        "plot": "rank_counts__AF_Y_002--56b3148f-6774-4053-b3d5-c5587f134433_1f929.mp4.png"
+      },
+      {
+        "video": "WF_Y_004--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f929.mp4",
+        "plot": "rank_counts__WF_Y_004--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f929.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--7e07a849-a8e3-4bd3-908c-11b334cd1f33_1f929.mp4",
+        "plot": "rank_counts__LF_Y_001--7e07a849-a8e3-4bd3-908c-11b334cd1f33_1f929.mp4.png"
+      },
+      {
+        "video": "WF_Y_001--bfcff2ec-d9aa-4932-b9f9-271a4076d808_1f929.mp4",
+        "plot": "rank_counts__WF_Y_001--bfcff2ec-d9aa-4932-b9f9-271a4076d808_1f929.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--517855b3-9211-49bd-a5de-a1c236aa7202_1f929.mp4",
+        "plot": "rank_counts__AF_Y_004--517855b3-9211-49bd-a5de-a1c236aa7202_1f929.mp4.png"
+      },
+      {
+        "video": "AF_Y_009--5ed5db40-feb0-4098-abdf-f9a9b4bb7b88_1f929.mp4",
+        "plot": "rank_counts__AF_Y_009--5ed5db40-feb0-4098-abdf-f9a9b4bb7b88_1f929.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f92c.png",
+    "emoji_code": "1f92c",
+    "samples": [
+      {
+        "video": "AM_Y_001--8681f750-12f8-4a33-aa58-3f5f82873d94_1f92c.mp4",
+        "plot": "rank_counts__AM_Y_001--8681f750-12f8-4a33-aa58-3f5f82873d94_1f92c.mp4.png"
+      },
+      {
+        "video": "WM_Y_001--6069af63-297b-4f4d-833a-c0dee1c9feb1_1f92c.mp4",
+        "plot": "rank_counts__WM_Y_001--6069af63-297b-4f4d-833a-c0dee1c9feb1_1f92c.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--a806638f-e6e6-4857-a9be-5973697796e7_1f92c.mp4",
+        "plot": "rank_counts__LF_Y_001--a806638f-e6e6-4857-a9be-5973697796e7_1f92c.mp4.png"
+      },
+      {
+        "video": "WF_Y_004--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f92c.mp4",
+        "plot": "rank_counts__WF_Y_004--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f92c.mp4.png"
+      },
+      {
+        "video": "AF_Y_008--b92f811d-880f-4845-8b57-035df76665c0_1f92c.mp4",
+        "plot": "rank_counts__AF_Y_008--b92f811d-880f-4845-8b57-035df76665c0_1f92c.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--7989fa4c-6a8b-4808-ba82-4de858f0583b_1f92c.mp4",
+        "plot": "rank_counts__LF_Y_002--7989fa4c-6a8b-4808-ba82-4de858f0583b_1f92c.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--e0b66f73-3c0a-44b0-a462-3557d2bcf04b_1f92c.mp4",
+        "plot": "rank_counts__LF_Y_002--e0b66f73-3c0a-44b0-a462-3557d2bcf04b_1f92c.mp4.png"
+      },
+      {
+        "video": "AM_Y_003--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1f92c.mp4",
+        "plot": "rank_counts__AM_Y_003--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1f92c.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f92c.mp4",
+        "plot": "rank_counts__LF_Y_002--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f92c.mp4.png"
+      },
+      {
+        "video": "AF_Y_006--a7a9bdf4-1296-4c53-b257-b42bd10d5528_1f92c.mp4",
+        "plot": "rank_counts__AF_Y_006--a7a9bdf4-1296-4c53-b257-b42bd10d5528_1f92c.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f92d.png",
+    "emoji_code": "1f92d",
+    "samples": [
+      {
+        "video": "LF_Y_002--a806638f-e6e6-4857-a9be-5973697796e7_1f92d.mp4",
+        "plot": "rank_counts__LF_Y_002--a806638f-e6e6-4857-a9be-5973697796e7_1f92d.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--2a4be810-a53e-4549-8276-d1299e449b04_1f92d.mp4",
+        "plot": "rank_counts__AF_Y_001--2a4be810-a53e-4549-8276-d1299e449b04_1f92d.mp4.png"
+      },
+      {
+        "video": "AM_Y_001--d41dc2c1-c3b0-480a-a175-2ad3cb5fc137_1f92d.mp4",
+        "plot": "rank_counts__AM_Y_001--d41dc2c1-c3b0-480a-a175-2ad3cb5fc137_1f92d.mp4.png"
+      },
+      {
+        "video": "AF_Y_002--84b7c199-5a73-4887-9925-d2cae7f98a73_1f92d.mp4",
+        "plot": "rank_counts__AF_Y_002--84b7c199-5a73-4887-9925-d2cae7f98a73_1f92d.mp4.png"
+      },
+      {
+        "video": "AF_Y_005--87c3c924-1f3c-4e3a-9ba6-901fa5d5858e_1f92d.mp4",
+        "plot": "rank_counts__AF_Y_005--87c3c924-1f3c-4e3a-9ba6-901fa5d5858e_1f92d.mp4.png"
+      },
+      {
+        "video": "AF_Y_006--0e6bf2b5-aa85-4b53-8a74-2cec8710c864_1f92d.mp4",
+        "plot": "rank_counts__AF_Y_006--0e6bf2b5-aa85-4b53-8a74-2cec8710c864_1f92d.mp4.png"
+      },
+      {
+        "video": "AM_Y_004--8681f750-12f8-4a33-aa58-3f5f82873d94_1f92d.mp4",
+        "plot": "rank_counts__AM_Y_004--8681f750-12f8-4a33-aa58-3f5f82873d94_1f92d.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--bf60bfae-c954-4a17-b1cc-db7c0b17771d_1f92d.mp4",
+        "plot": "rank_counts__AF_Y_004--bf60bfae-c954-4a17-b1cc-db7c0b17771d_1f92d.mp4.png"
+      },
+      {
+        "video": "WF_Y_004--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f92d.mp4",
+        "plot": "rank_counts__WF_Y_004--b0dc1945-a42b-42fe-a691-c2468dda91a4_1f92d.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f92f.png",
+    "emoji_code": "1f92f",
+    "samples": [
+      {
+        "video": "AF_Y_001--67d2453f-dfa2-4c76-84f0-984d86d20275_1f92f.mp4",
+        "plot": "rank_counts__AF_Y_001--67d2453f-dfa2-4c76-84f0-984d86d20275_1f92f.mp4.png"
+      },
+      {
+        "video": "LM_Y_001--4f9eecfe-d716-46f4-b893-c2607ca1c69d_1f92f.mp4",
+        "plot": "rank_counts__LM_Y_001--4f9eecfe-d716-46f4-b893-c2607ca1c69d_1f92f.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--2b6881e1-e751-4ba4-ae19-3564aff1aa8c_1f92f.mp4",
+        "plot": "rank_counts__AF_Y_001--2b6881e1-e751-4ba4-ae19-3564aff1aa8c_1f92f.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--20ee2d9f-1dad-4fa0-b8f1-2fe7a82aa945_1f92f.mp4",
+        "plot": "rank_counts__LF_Y_001--20ee2d9f-1dad-4fa0-b8f1-2fe7a82aa945_1f92f.mp4.png"
+      },
+      {
+        "video": "AM_Y_004--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1f92f.mp4",
+        "plot": "rank_counts__AM_Y_004--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1f92f.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--5ed5db40-feb0-4098-abdf-f9a9b4bb7b88_1f92f.mp4",
+        "plot": "rank_counts__AF_Y_001--5ed5db40-feb0-4098-abdf-f9a9b4bb7b88_1f92f.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--30408fa1-fe9b-4554-a24d-483c9958e798_1f92f.mp4",
+        "plot": "rank_counts__LF_Y_002--30408fa1-fe9b-4554-a24d-483c9958e798_1f92f.mp4.png"
+      },
+      {
+        "video": "AF_Y_002--517855b3-9211-49bd-a5de-a1c236aa7202_1f92f.mp4",
+        "plot": "rank_counts__AF_Y_002--517855b3-9211-49bd-a5de-a1c236aa7202_1f92f.mp4.png"
+      },
+      {
+        "video": "AF_Y_008--c552bf0f-b467-454f-bdb7-6bb592d3d752_1f92f.mp4",
+        "plot": "rank_counts__AF_Y_008--c552bf0f-b467-454f-bdb7-6bb592d3d752_1f92f.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f973.png",
+    "emoji_code": "1f973",
+    "samples": [
+      {
+        "video": "LF_Y_001--d50cf243-3ed6-467d-b60c-45fe20d1acc5_1f973.mp4",
+        "plot": "rank_counts__LF_Y_001--d50cf243-3ed6-467d-b60c-45fe20d1acc5_1f973.mp4.png"
+      },
+      {
+        "video": "WM_Y_005--6069af63-297b-4f4d-833a-c0dee1c9feb1_1f973.mp4",
+        "plot": "rank_counts__WM_Y_005--6069af63-297b-4f4d-833a-c0dee1c9feb1_1f973.mp4.png"
+      },
+      {
+        "video": "AF_Y_005--bf60bfae-c954-4a17-b1cc-db7c0b17771d_1f973.mp4",
+        "plot": "rank_counts__AF_Y_005--bf60bfae-c954-4a17-b1cc-db7c0b17771d_1f973.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--20ee2d9f-1dad-4fa0-b8f1-2fe7a82aa945_1f973.mp4",
+        "plot": "rank_counts__LF_Y_001--20ee2d9f-1dad-4fa0-b8f1-2fe7a82aa945_1f973.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--5df97110-987f-41fe-bd5b-da874089061b_1f973.mp4",
+        "plot": "rank_counts__AF_Y_004--5df97110-987f-41fe-bd5b-da874089061b_1f973.mp4.png"
+      },
+      {
+        "video": "WF_Y_003--56d8e699-b3cc-4d22-851f-e8fe6212797a_1f973.mp4",
+        "plot": "rank_counts__WF_Y_003--56d8e699-b3cc-4d22-851f-e8fe6212797a_1f973.mp4.png"
+      },
+      {
+        "video": "WF_Y_006--e4b5fda6-b534-4f23-a97b-0f311250edf2_1f973.mp4",
+        "plot": "rank_counts__WF_Y_006--e4b5fda6-b534-4f23-a97b-0f311250edf2_1f973.mp4.png"
+      },
+      {
+        "video": "WF_Y_003--bfcff2ec-d9aa-4932-b9f9-271a4076d808_1f973.mp4",
+        "plot": "rank_counts__WF_Y_003--bfcff2ec-d9aa-4932-b9f9-271a4076d808_1f973.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--9c341823-510c-41c2-ba89-eacd03d285c9_1f973.mp4",
+        "plot": "rank_counts__AF_Y_004--9c341823-510c-41c2-ba89-eacd03d285c9_1f973.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--7989fa4c-6a8b-4808-ba82-4de858f0583b_1f973.mp4",
+        "plot": "rank_counts__LF_Y_001--7989fa4c-6a8b-4808-ba82-4de858f0583b_1f973.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f974.png",
+    "emoji_code": "1f974",
+    "samples": [
+      {
+        "video": "LM_Y_001--4f9eecfe-d716-46f4-b893-c2607ca1c69d_1f974.mp4",
+        "plot": "rank_counts__LM_Y_001--4f9eecfe-d716-46f4-b893-c2607ca1c69d_1f974.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--0810b613-86fe-401a-a490-26b9e3d1fc2f_1f974.mp4",
+        "plot": "rank_counts__LF_Y_002--0810b613-86fe-401a-a490-26b9e3d1fc2f_1f974.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--cd43ad96-8ebb-47e6-9d25-ac3e9bb20a56_1f974.mp4",
+        "plot": "rank_counts__LF_Y_001--cd43ad96-8ebb-47e6-9d25-ac3e9bb20a56_1f974.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--425bfe20-df9f-40d6-bfc5-305c26af5917_1f974.mp4",
+        "plot": "rank_counts__LF_Y_002--425bfe20-df9f-40d6-bfc5-305c26af5917_1f974.mp4.png"
+      },
+      {
+        "video": "AF_Y_009--35aa8ca5-d587-4966-83e5-da2214f575bf_1f974.mp4",
+        "plot": "rank_counts__AF_Y_009--35aa8ca5-d587-4966-83e5-da2214f575bf_1f974.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--84b7c199-5a73-4887-9925-d2cae7f98a73_1f974.mp4",
+        "plot": "rank_counts__AF_Y_004--84b7c199-5a73-4887-9925-d2cae7f98a73_1f974.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--572de8c4-5e3e-4da1-a377-e94d45723990_1f974.mp4",
+        "plot": "rank_counts__AF_Y_001--572de8c4-5e3e-4da1-a377-e94d45723990_1f974.mp4.png"
+      },
+      {
+        "video": "AF_Y_002--bf60bfae-c954-4a17-b1cc-db7c0b17771d_1f974.mp4",
+        "plot": "rank_counts__AF_Y_002--bf60bfae-c954-4a17-b1cc-db7c0b17771d_1f974.mp4.png"
+      },
+      {
+        "video": "WF_Y_001--c2ef6925-ce5a-4da1-b4b6-78ee639a66ae_1f974.mp4",
+        "plot": "rank_counts__WF_Y_001--c2ef6925-ce5a-4da1-b4b6-78ee639a66ae_1f974.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f979.png",
+    "emoji_code": "1f979",
+    "samples": [
+      {
+        "video": "LM_Y_001--17daef2f-e5a9-4a9b-8f40-3cb4ab4e45e1_1f979.mp4",
+        "plot": "rank_counts__LM_Y_001--17daef2f-e5a9-4a9b-8f40-3cb4ab4e45e1_1f979.mp4.png"
+      },
+      {
+        "video": "AF_Y_009--2bf66241-d18f-4037-835d-d2a9d9bdab9d_1f979.mp4",
+        "plot": "rank_counts__AF_Y_009--2bf66241-d18f-4037-835d-d2a9d9bdab9d_1f979.mp4.png"
+      },
+      {
+        "video": "AF_Y_009--87c3c924-1f3c-4e3a-9ba6-901fa5d5858e_1f979.mp4",
+        "plot": "rank_counts__AF_Y_009--87c3c924-1f3c-4e3a-9ba6-901fa5d5858e_1f979.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--92d2d3e8-2c6f-4053-83e5-79de5f7fc6ec_1f979.mp4",
+        "plot": "rank_counts__AF_Y_001--92d2d3e8-2c6f-4053-83e5-79de5f7fc6ec_1f979.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f979.mp4",
+        "plot": "rank_counts__LF_Y_002--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1f979.mp4.png"
+      },
+
+      {
+        "video": "AF_Y_001--4535c013-280d-4d0c-814f-92b15ef94470_1f979.mp4",
+        "plot": "rank_counts__AF_Y_001--4535c013-280d-4d0c-814f-92b15ef94470_1f979.mp4.png"
+      },
+      {
+        "video": "AF_Y_002--5ed5db40-feb0-4098-abdf-f9a9b4bb7b88_1f979.mp4",
+        "plot": "rank_counts__AF_Y_002--5ed5db40-feb0-4098-abdf-f9a9b4bb7b88_1f979.mp4.png"
+      },
+      {
+        "video": "WF_Y_006--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f979.mp4",
+        "plot": "rank_counts__WF_Y_006--d6e2ba28-61da-4b7a-b35b-2acfc0d0105f_1f979.mp4.png"
+      },
+      {
+        "video": "LM_Y_009--4f9eecfe-d716-46f4-b893-c2607ca1c69d_1f979.mp4",
+        "plot": "rank_counts__LM_Y_009--4f9eecfe-d716-46f4-b893-c2607ca1c69d_1f979.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f97a.png",
+    "emoji_code": "1f97a",
+    "samples": [
+      {
+        "video": "LM_Y_003--17daef2f-e5a9-4a9b-8f40-3cb4ab4e45e1_1f97a.mp4",
+        "plot": "rank_counts__LM_Y_003--17daef2f-e5a9-4a9b-8f40-3cb4ab4e45e1_1f97a.mp4.png"
+      },
+      {
+        "video": "LM_Y_008--4f9eecfe-d716-46f4-b893-c2607ca1c69d_1f97a.mp4",
+        "plot": "rank_counts__LM_Y_008--4f9eecfe-d716-46f4-b893-c2607ca1c69d_1f97a.mp4.png"
+      },
+      {
+        "video": "AF_Y_003--2bf66241-d18f-4037-835d-d2a9d9bdab9d_1f97a.mp4",
+        "plot": "rank_counts__AF_Y_003--2bf66241-d18f-4037-835d-d2a9d9bdab9d_1f97a.mp4.png"
+      },
+      {
+        "video": "WF_Y_003--a9a88eb4-523a-40bc-aaa4-963f63f7dbca_1f97a.mp4",
+        "plot": "rank_counts__WF_Y_003--a9a88eb4-523a-40bc-aaa4-963f63f7dbca_1f97a.mp4.png"
+      },
+      {
+        "video": "AF_Y_002--572de8c4-5e3e-4da1-a377-e94d45723990_1f97a.mp4",
+        "plot": "rank_counts__AF_Y_002--572de8c4-5e3e-4da1-a377-e94d45723990_1f97a.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--9c341823-510c-41c2-ba89-eacd03d285c9_1f97a.mp4",
+        "plot": "rank_counts__AF_Y_004--9c341823-510c-41c2-ba89-eacd03d285c9_1f97a.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--669bbf99-c9e0-4a41-ab78-651a7e1f177e_1f97a.mp4",
+        "plot": "rank_counts__AF_Y_004--669bbf99-c9e0-4a41-ab78-651a7e1f177e_1f97a.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--20ee2d9f-1dad-4fa0-b8f1-2fe7a82aa945_1f97a.mp4",
+        "plot": "rank_counts__LF_Y_002--20ee2d9f-1dad-4fa0-b8f1-2fe7a82aa945_1f97a.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--56b3148f-6774-4053-b3d5-c5587f134433_1f97a.mp4",
+        "plot": "rank_counts__AF_Y_001--56b3148f-6774-4053-b3d5-c5587f134433_1f97a.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1f9d0.png",
+    "emoji_code": "1f9d0",
+    "samples": [
+      {
+        "video": "LM_Y_002--17daef2f-e5a9-4a9b-8f40-3cb4ab4e45e1_1f9d0.mp4",
+        "plot": "rank_counts__LM_Y_002--17daef2f-e5a9-4a9b-8f40-3cb4ab4e45e1_1f9d0.mp4.png"
+      },
+      {
+        "video": "WM_Y_007--6447b280-28b1-48f2-b0ba-ab30480f2bfb_1f9d0.mp4",
+        "plot": "rank_counts__WM_Y_007--6447b280-28b1-48f2-b0ba-ab30480f2bfb_1f9d0.mp4.png"
+      },
+      {
+        "video": "AM_Y_005--d41dc2c1-c3b0-480a-a175-2ad3cb5fc137_1f9d0.mp4",
+        "plot": "rank_counts__AM_Y_005--d41dc2c1-c3b0-480a-a175-2ad3cb5fc137_1f9d0.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--30408fa1-fe9b-4554-a24d-483c9958e798_1f9d0.mp4",
+        "plot": "rank_counts__LF_Y_002--30408fa1-fe9b-4554-a24d-483c9958e798_1f9d0.mp4.png"
+      },
+      {
+        "video": "AF_Y_002--35aa8ca5-d587-4966-83e5-da2214f575bf_1f9d0.mp4",
+        "plot": "rank_counts__AF_Y_002--35aa8ca5-d587-4966-83e5-da2214f575bf_1f9d0.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--425bfe20-df9f-40d6-bfc5-305c26af5917_1f9d0.mp4",
+        "plot": "rank_counts__LF_Y_001--425bfe20-df9f-40d6-bfc5-305c26af5917_1f9d0.mp4.png"
+      },
+      {
+        "video": "AF_Y_009--0e6bf2b5-aa85-4b53-8a74-2cec8710c864_1f9d0.mp4",
+        "plot": "rank_counts__AF_Y_009--0e6bf2b5-aa85-4b53-8a74-2cec8710c864_1f9d0.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--e0b66f73-3c0a-44b0-a462-3557d2bcf04b_1f9d0.mp4",
+        "plot": "rank_counts__LF_Y_001--e0b66f73-3c0a-44b0-a462-3557d2bcf04b_1f9d0.mp4.png"
+      },
+      {
+        "video": "AF_Y_002--b92f811d-880f-4845-8b57-035df76665c0_1f9d0.mp4",
+        "plot": "rank_counts__AF_Y_002--b92f811d-880f-4845-8b57-035df76665c0_1f9d0.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1fae0.png",
+    "emoji_code": "1fae0",
+    "samples": [
+      {
+        "video": "AF_Y_004--d3e8649a-4bf5-41f2-b4f1-ebaf4151d15d_1fae0.mp4",
+        "plot": "rank_counts__AF_Y_004--d3e8649a-4bf5-41f2-b4f1-ebaf4151d15d_1fae0.mp4.png"
+      },
+      {
+        "video": "LM_Y_008--3db15e27-7cd9-4f3b-b385-3b7c70c39e80_1fae0.mp4",
+        "plot": "rank_counts__LM_Y_008--3db15e27-7cd9-4f3b-b385-3b7c70c39e80_1fae0.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--b92f811d-880f-4845-8b57-035df76665c0_1fae0.mp4",
+        "plot": "rank_counts__AF_Y_004--b92f811d-880f-4845-8b57-035df76665c0_1fae0.mp4.png"
+      },
+      {
+        "video": "AF_Y_006--2b6881e1-e751-4ba4-ae19-3564aff1aa8c_1fae0.mp4",
+        "plot": "rank_counts__AF_Y_006--2b6881e1-e751-4ba4-ae19-3564aff1aa8c_1fae0.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--cd43ad96-8ebb-47e6-9d25-ac3e9bb20a56_1fae0.mp4",
+        "plot": "rank_counts__LF_Y_002--cd43ad96-8ebb-47e6-9d25-ac3e9bb20a56_1fae0.mp4.png"
+      },
+      {
+        "video": "AF_Y_009--67d2453f-dfa2-4c76-84f0-984d86d20275_1fae0.mp4",
+        "plot": "rank_counts__AF_Y_009--67d2453f-dfa2-4c76-84f0-984d86d20275_1fae0.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--3bde0305-5f4a-408c-bf09-db287f45592d_1fae0.mp4",
+        "plot": "rank_counts__LF_Y_002--3bde0305-5f4a-408c-bf09-db287f45592d_1fae0.mp4.png"
+      },
+      {
+        "video": "AM_Y_003--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1fae0.mp4",
+        "plot": "rank_counts__AM_Y_003--9ebf5a81-bf77-489f-96d6-f8c4d4d8b81a_1fae0.mp4.png"
+      },
+      {
+        "video": "AF_Y_006--5ed5db40-feb0-4098-abdf-f9a9b4bb7b88_1fae0.mp4",
+        "plot": "rank_counts__AF_Y_006--5ed5db40-feb0-4098-abdf-f9a9b4bb7b88_1fae0.mp4.png"
+      },
+      {
+        "video": "WF_Y_005--a9a88eb4-523a-40bc-aaa4-963f63f7dbca_1fae0.mp4",
+        "plot": "rank_counts__WF_Y_005--a9a88eb4-523a-40bc-aaa4-963f63f7dbca_1fae0.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1fae2.png",
+    "emoji_code": "1fae2",
+    "samples": [
+      {
+        "video": "WF_Y_002--e4b5fda6-b534-4f23-a97b-0f311250edf2_1fae2.mp4",
+        "plot": "rank_counts__WF_Y_002--e4b5fda6-b534-4f23-a97b-0f311250edf2_1fae2.mp4.png"
+      },
+      {
+        "video": "AF_Y_003--2b6881e1-e751-4ba4-ae19-3564aff1aa8c_1fae2.mp4",
+        "plot": "rank_counts__AF_Y_003--2b6881e1-e751-4ba4-ae19-3564aff1aa8c_1fae2.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1fae2.mp4",
+        "plot": "rank_counts__LF_Y_001--32a433fe-aa0b-44f9-a2b5-e1439137ad5a_1fae2.mp4.png"
+      },
+      {
+        "video": "AF_Y_004--517855b3-9211-49bd-a5de-a1c236aa7202_1fae2.mp4",
+        "plot": "rank_counts__AF_Y_004--517855b3-9211-49bd-a5de-a1c236aa7202_1fae2.mp4.png"
+      },
+      {
+        "video": "LM_Y_009--17daef2f-e5a9-4a9b-8f40-3cb4ab4e45e1_1fae2.mp4",
+        "plot": "rank_counts__LM_Y_009--17daef2f-e5a9-4a9b-8f40-3cb4ab4e45e1_1fae2.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--3bde0305-5f4a-408c-bf09-db287f45592d_1fae2.mp4",
+        "plot": "rank_counts__LF_Y_001--3bde0305-5f4a-408c-bf09-db287f45592d_1fae2.mp4.png"
+      },
+      {
+        "video": "LF_Y_002--c801630f-eac5-443b-a33e-a3714981a1c3_1fae2.mp4",
+        "plot": "rank_counts__LF_Y_002--c801630f-eac5-443b-a33e-a3714981a1c3_1fae2.mp4.png"
+      },
+      {
+        "video": "AM_Y_002--d41dc2c1-c3b0-480a-a175-2ad3cb5fc137_1fae2.mp4",
+        "plot": "rank_counts__AM_Y_002--d41dc2c1-c3b0-480a-a175-2ad3cb5fc137_1fae2.mp4.png"
+      },
+      {
+        "video": "WF_Y_001--2e777d8f-c3cc-4076-893c-99549527cdc1_1fae2.mp4",
+        "plot": "rank_counts__WF_Y_001--2e777d8f-c3cc-4076-893c-99549527cdc1_1fae2.mp4.png"
+      },
+      {
+        "video": "AF_Y_002--5df97110-987f-41fe-bd5b-da874089061b_1fae2.mp4",
+        "plot": "rank_counts__AF_Y_002--5df97110-987f-41fe-bd5b-da874089061b_1fae2.mp4.png"
+      }
+    ]
+  },
+  {
+    "emoji_path": "1fae4.png",
+    "emoji_code": "1fae4",
+    "samples": [
+      {
+        "video": "AF_Y_004--0e6bf2b5-aa85-4b53-8a74-2cec8710c864_1fae4.mp4",
+        "plot": "rank_counts__AF_Y_004--0e6bf2b5-aa85-4b53-8a74-2cec8710c864_1fae4.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--a806638f-e6e6-4857-a9be-5973697796e7_1fae4.mp4",
+        "plot": "rank_counts__LF_Y_001--a806638f-e6e6-4857-a9be-5973697796e7_1fae4.mp4.png"
+      },
+      {
+        "video": "WF_Y_006--bf33a0bc-64c2-4ebd-ae09-f1d7ee7df11b_1fae4.mp4",
+        "plot": "rank_counts__WF_Y_006--bf33a0bc-64c2-4ebd-ae09-f1d7ee7df11b_1fae4.mp4.png"
+      },
+      {
+        "video": "LM_Y_001--4f9eecfe-d716-46f4-b893-c2607ca1c69d_1fae4.mp4",
+        "plot": "rank_counts__LM_Y_001--4f9eecfe-d716-46f4-b893-c2607ca1c69d_1fae4.mp4.png"
+      },
+      {
+        "video": "WF_Y_006--56f874d4-b928-4ec8-8c4c-ebaff2f10de7_1fae4.mp4",
+        "plot": "rank_counts__WF_Y_006--56f874d4-b928-4ec8-8c4c-ebaff2f10de7_1fae4.mp4.png"
+      },
+      {
+        "video": "WF_Y_006--c2ef6925-ce5a-4da1-b4b6-78ee639a66ae_1fae4.mp4",
+        "plot": "rank_counts__WF_Y_006--c2ef6925-ce5a-4da1-b4b6-78ee639a66ae_1fae4.mp4.png"
+      },
+      {
+        "video": "WF_Y_003--2e777d8f-c3cc-4076-893c-99549527cdc1_1fae4.mp4",
+        "plot": "rank_counts__WF_Y_003--2e777d8f-c3cc-4076-893c-99549527cdc1_1fae4.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--c801630f-eac5-443b-a33e-a3714981a1c3_1fae4.mp4",
+        "plot": "rank_counts__LF_Y_001--c801630f-eac5-443b-a33e-a3714981a1c3_1fae4.mp4.png"
+      },
+      {
+        "video": "LF_Y_001--7e07a849-a8e3-4bd3-908c-11b334cd1f33_1fae4.mp4",
+        "plot": "rank_counts__LF_Y_001--7e07a849-a8e3-4bd3-908c-11b334cd1f33_1fae4.mp4.png"
+      },
+      {
+        "video": "AF_Y_001--84b7c199-5a73-4887-9925-d2cae7f98a73_1fae4.mp4",
+        "plot": "rank_counts__AF_Y_001--84b7c199-5a73-4887-9925-d2cae7f98a73_1fae4.mp4.png"
+      }
+    ]
+  }
+]
