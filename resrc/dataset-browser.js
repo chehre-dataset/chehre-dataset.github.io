@@ -83,7 +83,8 @@ function renderSamples(group) {
             Your browser does not support the video tag.
           </video>
 
-          <p class="sample-name" title="${videoFilename}">${displayVideoName(videoFilename)}</p>
+          <!-- <p class="sample-name" title="${videoFilename}">${displayVideoName(videoFilename)}</p> -->
+  
 
           ${
             plotUrl

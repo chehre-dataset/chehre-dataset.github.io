@@ -16,10 +16,6 @@
         "plot": "rank_counts__AF_Y_005--87c3c924-1f3c-4e3a-9ba6-901fa5d5858e_1f601.mp4.png"
       },
       {
-        "video": "LF_Y_002--a806638f-e6e6-4857-a9be-5973697796e7_1f601.mp4",
-        "plot": "rank_counts__LF_Y_002--a806638f-e6e6-4857-a9be-5973697796e7_1f601.mp4.png"
-      },
-      {
         "video": "AF_Y_008--0e6bf2b5-aa85-4b53-8a74-2cec8710c864_1f601.mp4",
         "plot": "rank_counts__AF_Y_008--0e6bf2b5-aa85-4b53-8a74-2cec8710c864_1f601.mp4.png"
       },
@@ -1350,10 +1346,6 @@
     "emoji_path": "1f92d.png",
     "emoji_code": "1f92d",
     "samples": [
-      {
-        "video": "LF_Y_002--a806638f-e6e6-4857-a9be-5973697796e7_1f92d.mp4",
-        "plot": "rank_counts__LF_Y_002--a806638f-e6e6-4857-a9be-5973697796e7_1f92d.mp4.png"
-      },
       {
         "video": "AF_Y_001--2a4be810-a53e-4549-8276-d1299e449b04_1f92d.mp4",
         "plot": "rank_counts__AF_Y_001--2a4be810-a53e-4549-8276-d1299e449b04_1f92d.mp4.png"
