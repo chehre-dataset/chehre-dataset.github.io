@@ -147,10 +147,6 @@
         "plot": "rank_counts__AF_Y_003--9c341823-510c-41c2-ba89-eacd03d285c9_1f607.mp4.png"
       },
       {
-        "video": "LF_Y_002--20ee2d9f-1dad-4fa0-b8f1-2fe7a82aa945_1f607.mp4",
-        "plot": "rank_counts__LF_Y_002--20ee2d9f-1dad-4fa0-b8f1-2fe7a82aa945_1f607.mp4.png"
-      },
-      {
         "video": "WF_Y_006--e4b5fda6-b534-4f23-a97b-0f311250edf2_1f607.mp4",
         "plot": "rank_counts__WF_Y_006--e4b5fda6-b534-4f23-a97b-0f311250edf2_1f607.mp4.png"
       },
@@ -1722,10 +1718,6 @@
       {
         "video": "WF_Y_001--2e777d8f-c3cc-4076-893c-99549527cdc1_1fae2.mp4",
         "plot": "rank_counts__WF_Y_001--2e777d8f-c3cc-4076-893c-99549527cdc1_1fae2.mp4.png"
-      },
-      {
-        "video": "AF_Y_002--5df97110-987f-41fe-bd5b-da874089061b_1fae2.mp4",
-        "plot": "rank_counts__AF_Y_002--5df97110-987f-41fe-bd5b-da874089061b_1fae2.mp4.png"
       }
     ]
   },
