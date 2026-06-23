@@ -72,9 +72,7 @@ function renderSamples(group) {
   grid.innerHTML = samples
     .map((sample) => {
       const videoFilename = sample.video;
-      const plotFilename = plotFilenameFromVideo(videoFilename);
       const videoUrl = buildUrl(VIDEO_BASE, videoFilename);
-      const plotUrl = plotFilename ? buildUrl(PLOT_BASE, plotFilename) : null;
 
       return `
         <article class="sample-card">
@@ -82,15 +80,6 @@ function renderSamples(group) {
             <source src="${videoUrl}" type="video/mp4">
             Your browser does not support the video tag.
           </video>
-
-          <!-- <p class="sample-name" title="${videoFilename}">${displayVideoName(videoFilename)}</p> -->
-  
-
-          ${
-            plotUrl
-              ? `<img class="plot-img" src="${plotUrl}" alt="Rating plot for ${videoFilename}">`
-              : `<p class="missing-plot">No plot available.</p>`
-          }
         </article>
       `;
     })
